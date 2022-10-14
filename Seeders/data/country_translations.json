@@ -1,0 +1,8570 @@
+[
+    {
+        "id": 1,
+        "country_id": 4,
+        "locale": "ar",
+        "name": "أفغانستان"
+    },
+    {
+        "id": 2,
+        "country_id": 4,
+        "locale": "en",
+        "name": "Afghanistan"
+    },
+    {
+        "id": 3,
+        "country_id": 4,
+        "locale": "fr",
+        "name": "Afghanistan"
+    },
+    {
+        "id": 4,
+        "country_id": 4,
+        "locale": "es",
+        "name": "Afganistán"
+    },
+    {
+        "id": 5,
+        "country_id": 4,
+        "locale": "tr",
+        "name": "Afganistan"
+    },
+    {
+        "id": 6,
+        "country_id": 4,
+        "locale": "id",
+        "name": "Afganistan"
+    },
+    {
+        "id": 7,
+        "country_id": 8,
+        "locale": "ar",
+        "name": "ألبانيا"
+    },
+    {
+        "id": 8,
+        "country_id": 8,
+        "locale": "en",
+        "name": "Albania"
+    },
+    {
+        "id": 9,
+        "country_id": 8,
+        "locale": "fr",
+        "name": "Albanie"
+    },
+    {
+        "id": 10,
+        "country_id": 8,
+        "locale": "es",
+        "name": "Albania"
+    },
+    {
+        "id": 11,
+        "country_id": 8,
+        "locale": "tr",
+        "name": "Arnavutluk"
+    },
+    {
+        "id": 12,
+        "country_id": 8,
+        "locale": "id",
+        "name": "Albania"
+    },
+    {
+        "id": 13,
+        "country_id": 10,
+        "locale": "ar",
+        "name": "القارة القطبية الجنوبية"
+    },
+    {
+        "id": 14,
+        "country_id": 10,
+        "locale": "en",
+        "name": "Antarctica"
+    },
+    {
+        "id": 15,
+        "country_id": 10,
+        "locale": "fr",
+        "name": "Antarctique"
+    },
+    {
+        "id": 16,
+        "country_id": 10,
+        "locale": "es",
+        "name": "Antártida"
+    },
+    {
+        "id": 17,
+        "country_id": 10,
+        "locale": "tr",
+        "name": "Antarktika"
+    },
+    {
+        "id": 18,
+        "country_id": 10,
+        "locale": "id",
+        "name": "Antartika"
+    },
+    {
+        "id": 19,
+        "country_id": 12,
+        "locale": "ar",
+        "name": "الجزائر"
+    },
+    {
+        "id": 20,
+        "country_id": 12,
+        "locale": "en",
+        "name": "Algeria"
+    },
+    {
+        "id": 21,
+        "country_id": 12,
+        "locale": "fr",
+        "name": "Algérie"
+    },
+    {
+        "id": 22,
+        "country_id": 12,
+        "locale": "es",
+        "name": "Argelia"
+    },
+    {
+        "id": 23,
+        "country_id": 12,
+        "locale": "tr",
+        "name": "Cezayir"
+    },
+    {
+        "id": 24,
+        "country_id": 12,
+        "locale": "id",
+        "name": "Aljazair"
+    },
+    {
+        "id": 25,
+        "country_id": 16,
+        "locale": "ar",
+        "name": "ساموا الأمريكية"
+    },
+    {
+        "id": 26,
+        "country_id": 16,
+        "locale": "en",
+        "name": "American Samoa"
+    },
+    {
+        "id": 27,
+        "country_id": 16,
+        "locale": "fr",
+        "name": "Samoa américaines"
+    },
+    {
+        "id": 28,
+        "country_id": 16,
+        "locale": "es",
+        "name": "Samoa Estadounidense"
+    },
+    {
+        "id": 29,
+        "country_id": 16,
+        "locale": "tr",
+        "name": "Amerikan Samoası"
+    },
+    {
+        "id": 30,
+        "country_id": 16,
+        "locale": "id",
+        "name": "Samoa Amerika"
+    },
+    {
+        "id": 31,
+        "country_id": 20,
+        "locale": "ar",
+        "name": "أندورا"
+    },
+    {
+        "id": 32,
+        "country_id": 20,
+        "locale": "en",
+        "name": "Andorra"
+    },
+    {
+        "id": 33,
+        "country_id": 20,
+        "locale": "fr",
+        "name": "Andorre"
+    },
+    {
+        "id": 34,
+        "country_id": 20,
+        "locale": "es",
+        "name": "Andorra"
+    },
+    {
+        "id": 35,
+        "country_id": 20,
+        "locale": "tr",
+        "name": "Andorra"
+    },
+    {
+        "id": 36,
+        "country_id": 20,
+        "locale": "id",
+        "name": "Andorra"
+    },
+    {
+        "id": 37,
+        "country_id": 24,
+        "locale": "ar",
+        "name": "أنغولا"
+    },
+    {
+        "id": 38,
+        "country_id": 24,
+        "locale": "en",
+        "name": "Angola"
+    },
+    {
+        "id": 39,
+        "country_id": 24,
+        "locale": "fr",
+        "name": "Angola"
+    },
+    {
+        "id": 40,
+        "country_id": 24,
+        "locale": "es",
+        "name": "Angola"
+    },
+    {
+        "id": 41,
+        "country_id": 24,
+        "locale": "tr",
+        "name": "Angola"
+    },
+    {
+        "id": 42,
+        "country_id": 24,
+        "locale": "id",
+        "name": "Angola"
+    },
+    {
+        "id": 43,
+        "country_id": 28,
+        "locale": "ar",
+        "name": "أنتيغوا وباربودا"
+    },
+    {
+        "id": 44,
+        "country_id": 28,
+        "locale": "en",
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "id": 45,
+        "country_id": 28,
+        "locale": "fr",
+        "name": "Antigua-et-Barbuda"
+    },
+    {
+        "id": 46,
+        "country_id": 28,
+        "locale": "es",
+        "name": "Antigua y Barbuda"
+    },
+    {
+        "id": 47,
+        "country_id": 28,
+        "locale": "tr",
+        "name": "Antigua ve Barbuda"
+    },
+    {
+        "id": 48,
+        "country_id": 28,
+        "locale": "id",
+        "name": "Antigua dan Barbuda"
+    },
+    {
+        "id": 49,
+        "country_id": 31,
+        "locale": "ar",
+        "name": "أذربيجان"
+    },
+    {
+        "id": 50,
+        "country_id": 31,
+        "locale": "en",
+        "name": "Azerbaijan"
+    },
+    {
+        "id": 51,
+        "country_id": 31,
+        "locale": "fr",
+        "name": "Azerbaïdjan"
+    },
+    {
+        "id": 52,
+        "country_id": 31,
+        "locale": "es",
+        "name": "Azerbaiyán"
+    },
+    {
+        "id": 53,
+        "country_id": 31,
+        "locale": "tr",
+        "name": "Azerbaycan"
+    },
+    {
+        "id": 54,
+        "country_id": 31,
+        "locale": "id",
+        "name": "Azerbaijan"
+    },
+    {
+        "id": 55,
+        "country_id": 32,
+        "locale": "ar",
+        "name": "الأرجنتين"
+    },
+    {
+        "id": 56,
+        "country_id": 32,
+        "locale": "en",
+        "name": "Argentina"
+    },
+    {
+        "id": 57,
+        "country_id": 32,
+        "locale": "fr",
+        "name": "Argentine"
+    },
+    {
+        "id": 58,
+        "country_id": 32,
+        "locale": "es",
+        "name": "Argentina"
+    },
+    {
+        "id": 59,
+        "country_id": 32,
+        "locale": "tr",
+        "name": "Arjantin"
+    },
+    {
+        "id": 60,
+        "country_id": 32,
+        "locale": "id",
+        "name": "Argentina"
+    },
+    {
+        "id": 61,
+        "country_id": 36,
+        "locale": "ar",
+        "name": "أستراليا"
+    },
+    {
+        "id": 62,
+        "country_id": 36,
+        "locale": "en",
+        "name": "Australia"
+    },
+    {
+        "id": 63,
+        "country_id": 36,
+        "locale": "fr",
+        "name": "Australie"
+    },
+    {
+        "id": 64,
+        "country_id": 36,
+        "locale": "es",
+        "name": "Australia"
+    },
+    {
+        "id": 65,
+        "country_id": 36,
+        "locale": "tr",
+        "name": "Avustralya"
+    },
+    {
+        "id": 66,
+        "country_id": 36,
+        "locale": "id",
+        "name": "Australia"
+    },
+    {
+        "id": 67,
+        "country_id": 40,
+        "locale": "ar",
+        "name": "النمسا"
+    },
+    {
+        "id": 68,
+        "country_id": 40,
+        "locale": "en",
+        "name": "Austria"
+    },
+    {
+        "id": 69,
+        "country_id": 40,
+        "locale": "fr",
+        "name": "Autriche"
+    },
+    {
+        "id": 70,
+        "country_id": 40,
+        "locale": "es",
+        "name": "Austria"
+    },
+    {
+        "id": 71,
+        "country_id": 40,
+        "locale": "tr",
+        "name": "Avusturya"
+    },
+    {
+        "id": 72,
+        "country_id": 40,
+        "locale": "id",
+        "name": "Austria"
+    },
+    {
+        "id": 73,
+        "country_id": 44,
+        "locale": "ar",
+        "name": "باهاماس"
+    },
+    {
+        "id": 74,
+        "country_id": 44,
+        "locale": "en",
+        "name": "The Bahamas"
+    },
+    {
+        "id": 75,
+        "country_id": 44,
+        "locale": "fr",
+        "name": "Bahamas"
+    },
+    {
+        "id": 76,
+        "country_id": 44,
+        "locale": "es",
+        "name": "Bahamas"
+    },
+    {
+        "id": 77,
+        "country_id": 44,
+        "locale": "tr",
+        "name": "Bahamalar"
+    },
+    {
+        "id": 78,
+        "country_id": 44,
+        "locale": "id",
+        "name": "Bahama"
+    },
+    {
+        "id": 79,
+        "country_id": 48,
+        "locale": "ar",
+        "name": "البحرين"
+    },
+    {
+        "id": 80,
+        "country_id": 48,
+        "locale": "en",
+        "name": "Bahrain"
+    },
+    {
+        "id": 81,
+        "country_id": 48,
+        "locale": "fr",
+        "name": "Bahreïn"
+    },
+    {
+        "id": 82,
+        "country_id": 48,
+        "locale": "es",
+        "name": "Baréin"
+    },
+    {
+        "id": 83,
+        "country_id": 48,
+        "locale": "tr",
+        "name": "Bahreyn"
+    },
+    {
+        "id": 84,
+        "country_id": 48,
+        "locale": "id",
+        "name": "Bahrain"
+    },
+    {
+        "id": 85,
+        "country_id": 50,
+        "locale": "ar",
+        "name": "بنغلاديش"
+    },
+    {
+        "id": 86,
+        "country_id": 50,
+        "locale": "en",
+        "name": "Bangladesh"
+    },
+    {
+        "id": 87,
+        "country_id": 50,
+        "locale": "fr",
+        "name": "Bangladesh"
+    },
+    {
+        "id": 88,
+        "country_id": 50,
+        "locale": "es",
+        "name": "Bangladés"
+    },
+    {
+        "id": 89,
+        "country_id": 50,
+        "locale": "tr",
+        "name": "Bangladeş"
+    },
+    {
+        "id": 90,
+        "country_id": 50,
+        "locale": "id",
+        "name": "Bangladesh"
+    },
+    {
+        "id": 91,
+        "country_id": 51,
+        "locale": "ar",
+        "name": "أرمينيا"
+    },
+    {
+        "id": 92,
+        "country_id": 51,
+        "locale": "en",
+        "name": "Armenia"
+    },
+    {
+        "id": 93,
+        "country_id": 51,
+        "locale": "fr",
+        "name": "Arménie"
+    },
+    {
+        "id": 94,
+        "country_id": 51,
+        "locale": "es",
+        "name": "Armenia"
+    },
+    {
+        "id": 95,
+        "country_id": 51,
+        "locale": "tr",
+        "name": "Ermenistan"
+    },
+    {
+        "id": 96,
+        "country_id": 51,
+        "locale": "id",
+        "name": "Armenia"
+    },
+    {
+        "id": 97,
+        "country_id": 52,
+        "locale": "ar",
+        "name": "باربادوس"
+    },
+    {
+        "id": 98,
+        "country_id": 52,
+        "locale": "en",
+        "name": "Barbados"
+    },
+    {
+        "id": 99,
+        "country_id": 52,
+        "locale": "fr",
+        "name": "Barbade"
+    },
+    {
+        "id": 100,
+        "country_id": 52,
+        "locale": "es",
+        "name": "Barbados"
+    },
+    {
+        "id": 101,
+        "country_id": 52,
+        "locale": "tr",
+        "name": "Barbados"
+    },
+    {
+        "id": 102,
+        "country_id": 52,
+        "locale": "id",
+        "name": "Barbados"
+    },
+    {
+        "id": 103,
+        "country_id": 56,
+        "locale": "ar",
+        "name": "بلجيكا"
+    },
+    {
+        "id": 104,
+        "country_id": 56,
+        "locale": "en",
+        "name": "Belgium"
+    },
+    {
+        "id": 105,
+        "country_id": 56,
+        "locale": "fr",
+        "name": "Belgique"
+    },
+    {
+        "id": 106,
+        "country_id": 56,
+        "locale": "es",
+        "name": "Bélgica"
+    },
+    {
+        "id": 107,
+        "country_id": 56,
+        "locale": "tr",
+        "name": "Belçika"
+    },
+    {
+        "id": 108,
+        "country_id": 56,
+        "locale": "id",
+        "name": "Belgia"
+    },
+    {
+        "id": 109,
+        "country_id": 60,
+        "locale": "ar",
+        "name": "برمودا"
+    },
+    {
+        "id": 110,
+        "country_id": 60,
+        "locale": "en",
+        "name": "Bermuda"
+    },
+    {
+        "id": 111,
+        "country_id": 60,
+        "locale": "fr",
+        "name": "Bermudes"
+    },
+    {
+        "id": 112,
+        "country_id": 60,
+        "locale": "es",
+        "name": "Bermudas"
+    },
+    {
+        "id": 113,
+        "country_id": 60,
+        "locale": "tr",
+        "name": "Bermuda"
+    },
+    {
+        "id": 114,
+        "country_id": 60,
+        "locale": "id",
+        "name": "Bermuda"
+    },
+    {
+        "id": 115,
+        "country_id": 64,
+        "locale": "ar",
+        "name": "بوتان"
+    },
+    {
+        "id": 116,
+        "country_id": 64,
+        "locale": "en",
+        "name": "Bhutan"
+    },
+    {
+        "id": 117,
+        "country_id": 64,
+        "locale": "fr",
+        "name": "Bhoutan"
+    },
+    {
+        "id": 118,
+        "country_id": 64,
+        "locale": "es",
+        "name": "Bután"
+    },
+    {
+        "id": 119,
+        "country_id": 64,
+        "locale": "tr",
+        "name": "Bhutan"
+    },
+    {
+        "id": 120,
+        "country_id": 64,
+        "locale": "id",
+        "name": "Bhutan"
+    },
+    {
+        "id": 121,
+        "country_id": 68,
+        "locale": "ar",
+        "name": "بوليفيا"
+    },
+    {
+        "id": 122,
+        "country_id": 68,
+        "locale": "en",
+        "name": "Bolivia"
+    },
+    {
+        "id": 123,
+        "country_id": 68,
+        "locale": "fr",
+        "name": "Bolivie"
+    },
+    {
+        "id": 124,
+        "country_id": 68,
+        "locale": "es",
+        "name": "Bolivia"
+    },
+    {
+        "id": 125,
+        "country_id": 68,
+        "locale": "tr",
+        "name": "Bolivya"
+    },
+    {
+        "id": 126,
+        "country_id": 68,
+        "locale": "id",
+        "name": "Bolivia"
+    },
+    {
+        "id": 127,
+        "country_id": 70,
+        "locale": "ar",
+        "name": "البوسنة والهرسك"
+    },
+    {
+        "id": 128,
+        "country_id": 70,
+        "locale": "en",
+        "name": "Bosnia and Herzegovina"
+    },
+    {
+        "id": 129,
+        "country_id": 70,
+        "locale": "fr",
+        "name": "Bosnie-Herzégovine"
+    },
+    {
+        "id": 130,
+        "country_id": 70,
+        "locale": "es",
+        "name": "Bosnia y Herzegovina"
+    },
+    {
+        "id": 131,
+        "country_id": 70,
+        "locale": "tr",
+        "name": "Bosna-Hersek"
+    },
+    {
+        "id": 132,
+        "country_id": 70,
+        "locale": "id",
+        "name": "Bosnia dan Herzegovina"
+    },
+    {
+        "id": 133,
+        "country_id": 72,
+        "locale": "ar",
+        "name": "بوتسوانا"
+    },
+    {
+        "id": 134,
+        "country_id": 72,
+        "locale": "en",
+        "name": "Botswana"
+    },
+    {
+        "id": 135,
+        "country_id": 72,
+        "locale": "fr",
+        "name": "Botswana"
+    },
+    {
+        "id": 136,
+        "country_id": 72,
+        "locale": "es",
+        "name": "Botsuana"
+    },
+    {
+        "id": 137,
+        "country_id": 72,
+        "locale": "tr",
+        "name": "Botsvana"
+    },
+    {
+        "id": 138,
+        "country_id": 72,
+        "locale": "id",
+        "name": "Botswana"
+    },
+    {
+        "id": 139,
+        "country_id": 76,
+        "locale": "ar",
+        "name": "البرازيل"
+    },
+    {
+        "id": 140,
+        "country_id": 76,
+        "locale": "en",
+        "name": "Brazil"
+    },
+    {
+        "id": 141,
+        "country_id": 76,
+        "locale": "fr",
+        "name": "Brésil"
+    },
+    {
+        "id": 142,
+        "country_id": 76,
+        "locale": "es",
+        "name": "Brasil"
+    },
+    {
+        "id": 143,
+        "country_id": 76,
+        "locale": "tr",
+        "name": "Brezilya"
+    },
+    {
+        "id": 144,
+        "country_id": 76,
+        "locale": "id",
+        "name": "Brasil"
+    },
+    {
+        "id": 145,
+        "country_id": 84,
+        "locale": "ar",
+        "name": "بليز"
+    },
+    {
+        "id": 146,
+        "country_id": 84,
+        "locale": "en",
+        "name": "Belize"
+    },
+    {
+        "id": 147,
+        "country_id": 84,
+        "locale": "fr",
+        "name": "Belize"
+    },
+    {
+        "id": 148,
+        "country_id": 84,
+        "locale": "es",
+        "name": "Belice"
+    },
+    {
+        "id": 149,
+        "country_id": 84,
+        "locale": "tr",
+        "name": "Belize"
+    },
+    {
+        "id": 150,
+        "country_id": 84,
+        "locale": "id",
+        "name": "Belize"
+    },
+    {
+        "id": 151,
+        "country_id": 86,
+        "locale": "ar",
+        "name": "إقليم المحيط الهندي البريطاني"
+    },
+    {
+        "id": 152,
+        "country_id": 86,
+        "locale": "en",
+        "name": "British Indian Ocean Territory"
+    },
+    {
+        "id": 153,
+        "country_id": 86,
+        "locale": "fr",
+        "name": "Territoire britannique de l’océan Indien"
+    },
+    {
+        "id": 154,
+        "country_id": 86,
+        "locale": "es",
+        "name": "Territorio Británico del Océano Índico"
+    },
+    {
+        "id": 155,
+        "country_id": 86,
+        "locale": "tr",
+        "name": "Britanya Hint Okyanusu Toprakları"
+    },
+    {
+        "id": 156,
+        "country_id": 86,
+        "locale": "id",
+        "name": "Wilayah Samudra Hindia Britania"
+    },
+    {
+        "id": 157,
+        "country_id": 90,
+        "locale": "ar",
+        "name": "جزر سليمان"
+    },
+    {
+        "id": 158,
+        "country_id": 90,
+        "locale": "en",
+        "name": "Solomon Islands"
+    },
+    {
+        "id": 159,
+        "country_id": 90,
+        "locale": "fr",
+        "name": "Îles Salomon"
+    },
+    {
+        "id": 160,
+        "country_id": 90,
+        "locale": "es",
+        "name": "Islas Salomón"
+    },
+    {
+        "id": 161,
+        "country_id": 90,
+        "locale": "tr",
+        "name": "Solomon Adaları"
+    },
+    {
+        "id": 162,
+        "country_id": 90,
+        "locale": "id",
+        "name": "Kepulauan Solomon"
+    },
+    {
+        "id": 163,
+        "country_id": 92,
+        "locale": "ar",
+        "name": "جزر العذراء البريطانية"
+    },
+    {
+        "id": 164,
+        "country_id": 92,
+        "locale": "en",
+        "name": "British Virgin Islands"
+    },
+    {
+        "id": 165,
+        "country_id": 92,
+        "locale": "fr",
+        "name": "îles Vierges britanniques"
+    },
+    {
+        "id": 166,
+        "country_id": 92,
+        "locale": "es",
+        "name": "Islas Vírgenes Británicas"
+    },
+    {
+        "id": 167,
+        "country_id": 92,
+        "locale": "tr",
+        "name": "Britanya Virjin Adaları"
+    },
+    {
+        "id": 168,
+        "country_id": 92,
+        "locale": "id",
+        "name": "Kepulauan Virgin Britania Raya"
+    },
+    {
+        "id": 169,
+        "country_id": 96,
+        "locale": "ar",
+        "name": "بروناي"
+    },
+    {
+        "id": 170,
+        "country_id": 96,
+        "locale": "en",
+        "name": "Brunei"
+    },
+    {
+        "id": 171,
+        "country_id": 96,
+        "locale": "fr",
+        "name": "Brunei"
+    },
+    {
+        "id": 172,
+        "country_id": 96,
+        "locale": "es",
+        "name": "Brunéi"
+    },
+    {
+        "id": 173,
+        "country_id": 96,
+        "locale": "tr",
+        "name": "Brunei"
+    },
+    {
+        "id": 174,
+        "country_id": 96,
+        "locale": "id",
+        "name": "Brunei Darussalam"
+    },
+    {
+        "id": 175,
+        "country_id": 100,
+        "locale": "ar",
+        "name": "بلغاريا"
+    },
+    {
+        "id": 176,
+        "country_id": 100,
+        "locale": "en",
+        "name": "Bulgaria"
+    },
+    {
+        "id": 177,
+        "country_id": 100,
+        "locale": "fr",
+        "name": "Bulgarie"
+    },
+    {
+        "id": 178,
+        "country_id": 100,
+        "locale": "es",
+        "name": "Bulgaria"
+    },
+    {
+        "id": 179,
+        "country_id": 100,
+        "locale": "tr",
+        "name": "Bulgaristan"
+    },
+    {
+        "id": 180,
+        "country_id": 100,
+        "locale": "id",
+        "name": "Bulgaria"
+    },
+    {
+        "id": 181,
+        "country_id": 104,
+        "locale": "ar",
+        "name": "ميانمار"
+    },
+    {
+        "id": 182,
+        "country_id": 104,
+        "locale": "en",
+        "name": "Myanmar"
+    },
+    {
+        "id": 183,
+        "country_id": 104,
+        "locale": "fr",
+        "name": "Birmanie"
+    },
+    {
+        "id": 184,
+        "country_id": 104,
+        "locale": "es",
+        "name": "Birmania"
+    },
+    {
+        "id": 185,
+        "country_id": 104,
+        "locale": "tr",
+        "name": "Myanmar"
+    },
+    {
+        "id": 186,
+        "country_id": 104,
+        "locale": "id",
+        "name": "Myanmar"
+    },
+    {
+        "id": 187,
+        "country_id": 108,
+        "locale": "ar",
+        "name": "بوروندي"
+    },
+    {
+        "id": 188,
+        "country_id": 108,
+        "locale": "en",
+        "name": "Burundi"
+    },
+    {
+        "id": 189,
+        "country_id": 108,
+        "locale": "fr",
+        "name": "Burundi"
+    },
+    {
+        "id": 190,
+        "country_id": 108,
+        "locale": "es",
+        "name": "Burundi"
+    },
+    {
+        "id": 191,
+        "country_id": 108,
+        "locale": "tr",
+        "name": "Burundi"
+    },
+    {
+        "id": 192,
+        "country_id": 108,
+        "locale": "id",
+        "name": "Burundi"
+    },
+    {
+        "id": 193,
+        "country_id": 112,
+        "locale": "ar",
+        "name": "بيلاروسيا"
+    },
+    {
+        "id": 194,
+        "country_id": 112,
+        "locale": "en",
+        "name": "Belarus"
+    },
+    {
+        "id": 195,
+        "country_id": 112,
+        "locale": "fr",
+        "name": "Biélorussie"
+    },
+    {
+        "id": 196,
+        "country_id": 112,
+        "locale": "es",
+        "name": "Bielorrusia"
+    },
+    {
+        "id": 197,
+        "country_id": 112,
+        "locale": "tr",
+        "name": "Beyaz Rusya"
+    },
+    {
+        "id": 198,
+        "country_id": 112,
+        "locale": "id",
+        "name": "Belarus"
+    },
+    {
+        "id": 199,
+        "country_id": 116,
+        "locale": "ar",
+        "name": "كمبوديا"
+    },
+    {
+        "id": 200,
+        "country_id": 116,
+        "locale": "en",
+        "name": "Cambodia"
+    },
+    {
+        "id": 201,
+        "country_id": 116,
+        "locale": "fr",
+        "name": "Cambodge"
+    },
+    {
+        "id": 202,
+        "country_id": 116,
+        "locale": "es",
+        "name": "Camboya"
+    },
+    {
+        "id": 203,
+        "country_id": 116,
+        "locale": "tr",
+        "name": "Kamboçya"
+    },
+    {
+        "id": 204,
+        "country_id": 116,
+        "locale": "id",
+        "name": "Kamboja"
+    },
+    {
+        "id": 205,
+        "country_id": 120,
+        "locale": "ar",
+        "name": "الكاميرون"
+    },
+    {
+        "id": 206,
+        "country_id": 120,
+        "locale": "en",
+        "name": "Cameroon"
+    },
+    {
+        "id": 207,
+        "country_id": 120,
+        "locale": "fr",
+        "name": "Cameroun"
+    },
+    {
+        "id": 208,
+        "country_id": 120,
+        "locale": "es",
+        "name": "Camerún"
+    },
+    {
+        "id": 209,
+        "country_id": 120,
+        "locale": "tr",
+        "name": "Kamerun"
+    },
+    {
+        "id": 210,
+        "country_id": 120,
+        "locale": "id",
+        "name": "Kamerun"
+    },
+    {
+        "id": 211,
+        "country_id": 124,
+        "locale": "ar",
+        "name": "كندا"
+    },
+    {
+        "id": 212,
+        "country_id": 124,
+        "locale": "en",
+        "name": "Canada"
+    },
+    {
+        "id": 213,
+        "country_id": 124,
+        "locale": "fr",
+        "name": "Canada"
+    },
+    {
+        "id": 214,
+        "country_id": 124,
+        "locale": "es",
+        "name": "Canadá"
+    },
+    {
+        "id": 215,
+        "country_id": 124,
+        "locale": "tr",
+        "name": "Kanada"
+    },
+    {
+        "id": 216,
+        "country_id": 124,
+        "locale": "id",
+        "name": "Kanada"
+    },
+    {
+        "id": 217,
+        "country_id": 132,
+        "locale": "ar",
+        "name": "الرأس الأخضر"
+    },
+    {
+        "id": 218,
+        "country_id": 132,
+        "locale": "en",
+        "name": "Cape Verde"
+    },
+    {
+        "id": 219,
+        "country_id": 132,
+        "locale": "fr",
+        "name": "Cap-Vert"
+    },
+    {
+        "id": 220,
+        "country_id": 132,
+        "locale": "es",
+        "name": "Cabo Verde"
+    },
+    {
+        "id": 221,
+        "country_id": 132,
+        "locale": "tr",
+        "name": "Yeşil Burun Adaları"
+    },
+    {
+        "id": 222,
+        "country_id": 132,
+        "locale": "id",
+        "name": "Tanjung Verde"
+    },
+    {
+        "id": 223,
+        "country_id": 136,
+        "locale": "ar",
+        "name": "جزر كايمان"
+    },
+    {
+        "id": 224,
+        "country_id": 136,
+        "locale": "en",
+        "name": "Cayman Islands"
+    },
+    {
+        "id": 225,
+        "country_id": 136,
+        "locale": "fr",
+        "name": "îles Caïmans"
+    },
+    {
+        "id": 226,
+        "country_id": 136,
+        "locale": "es",
+        "name": "Islas Caimán"
+    },
+    {
+        "id": 227,
+        "country_id": 136,
+        "locale": "tr",
+        "name": "Cayman Adaları"
+    },
+    {
+        "id": 228,
+        "country_id": 136,
+        "locale": "id",
+        "name": "Kepulauan Cayman"
+    },
+    {
+        "id": 229,
+        "country_id": 140,
+        "locale": "ar",
+        "name": "جمهورية أفريقيا الوسطى"
+    },
+    {
+        "id": 230,
+        "country_id": 140,
+        "locale": "en",
+        "name": "Central African Republic"
+    },
+    {
+        "id": 231,
+        "country_id": 140,
+        "locale": "fr",
+        "name": "République centrafricaine"
+    },
+    {
+        "id": 232,
+        "country_id": 140,
+        "locale": "es",
+        "name": "República Centroafricana"
+    },
+    {
+        "id": 233,
+        "country_id": 140,
+        "locale": "tr",
+        "name": "Orta Afrika Cumhuriyeti"
+    },
+    {
+        "id": 234,
+        "country_id": 140,
+        "locale": "id",
+        "name": "Republik Afrika Tengah"
+    },
+    {
+        "id": 235,
+        "country_id": 144,
+        "locale": "ar",
+        "name": "سريلانكا"
+    },
+    {
+        "id": 236,
+        "country_id": 144,
+        "locale": "en",
+        "name": "Sri Lanka"
+    },
+    {
+        "id": 237,
+        "country_id": 144,
+        "locale": "fr",
+        "name": "Sri Lanka"
+    },
+    {
+        "id": 238,
+        "country_id": 144,
+        "locale": "es",
+        "name": "Sri Lanka"
+    },
+    {
+        "id": 239,
+        "country_id": 144,
+        "locale": "tr",
+        "name": "Sri Lanka"
+    },
+    {
+        "id": 240,
+        "country_id": 144,
+        "locale": "id",
+        "name": "Sri Lanka"
+    },
+    {
+        "id": 241,
+        "country_id": 148,
+        "locale": "ar",
+        "name": "تشاد"
+    },
+    {
+        "id": 242,
+        "country_id": 148,
+        "locale": "en",
+        "name": "Chad"
+    },
+    {
+        "id": 243,
+        "country_id": 148,
+        "locale": "fr",
+        "name": "Tchad"
+    },
+    {
+        "id": 244,
+        "country_id": 148,
+        "locale": "es",
+        "name": "Chad"
+    },
+    {
+        "id": 245,
+        "country_id": 148,
+        "locale": "tr",
+        "name": "Çad"
+    },
+    {
+        "id": 246,
+        "country_id": 148,
+        "locale": "id",
+        "name": "Chad"
+    },
+    {
+        "id": 247,
+        "country_id": 152,
+        "locale": "ar",
+        "name": "تشيلي"
+    },
+    {
+        "id": 248,
+        "country_id": 152,
+        "locale": "en",
+        "name": "Chile"
+    },
+    {
+        "id": 249,
+        "country_id": 152,
+        "locale": "fr",
+        "name": "Chili"
+    },
+    {
+        "id": 250,
+        "country_id": 152,
+        "locale": "es",
+        "name": "Chile"
+    },
+    {
+        "id": 251,
+        "country_id": 152,
+        "locale": "tr",
+        "name": "Şili"
+    },
+    {
+        "id": 252,
+        "country_id": 152,
+        "locale": "id",
+        "name": "Chili"
+    },
+    {
+        "id": 253,
+        "country_id": 156,
+        "locale": "ar",
+        "name": "الصين"
+    },
+    {
+        "id": 254,
+        "country_id": 156,
+        "locale": "en",
+        "name": "People's Republic of China"
+    },
+    {
+        "id": 255,
+        "country_id": 156,
+        "locale": "fr",
+        "name": "République populaire de Chine"
+    },
+    {
+        "id": 256,
+        "country_id": 156,
+        "locale": "es",
+        "name": "China"
+    },
+    {
+        "id": 257,
+        "country_id": 156,
+        "locale": "tr",
+        "name": "Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 258,
+        "country_id": 156,
+        "locale": "id",
+        "name": "Republik Rakyat Tiongkok"
+    },
+    {
+        "id": 259,
+        "country_id": 158,
+        "locale": "ar",
+        "name": "تايوان"
+    },
+    {
+        "id": 260,
+        "country_id": 158,
+        "locale": "en",
+        "name": "Taiwan"
+    },
+    {
+        "id": 261,
+        "country_id": 158,
+        "locale": "fr",
+        "name": "Taïwan"
+    },
+    {
+        "id": 262,
+        "country_id": 158,
+        "locale": "es",
+        "name": "República de China"
+    },
+    {
+        "id": 263,
+        "country_id": 158,
+        "locale": "tr",
+        "name": "Çin Cumhuriyeti"
+    },
+    {
+        "id": 264,
+        "country_id": 158,
+        "locale": "id",
+        "name": "Taiwan"
+    },
+    {
+        "id": 265,
+        "country_id": 170,
+        "locale": "ar",
+        "name": "كولومبيا"
+    },
+    {
+        "id": 266,
+        "country_id": 170,
+        "locale": "en",
+        "name": "Colombia"
+    },
+    {
+        "id": 267,
+        "country_id": 170,
+        "locale": "fr",
+        "name": "Colombie"
+    },
+    {
+        "id": 268,
+        "country_id": 170,
+        "locale": "es",
+        "name": "Colombia"
+    },
+    {
+        "id": 269,
+        "country_id": 170,
+        "locale": "tr",
+        "name": "Kolombiya"
+    },
+    {
+        "id": 270,
+        "country_id": 170,
+        "locale": "id",
+        "name": "Kolombia"
+    },
+    {
+        "id": 271,
+        "country_id": 174,
+        "locale": "ar",
+        "name": "جزر القمر"
+    },
+    {
+        "id": 272,
+        "country_id": 174,
+        "locale": "en",
+        "name": "Comoros"
+    },
+    {
+        "id": 273,
+        "country_id": 174,
+        "locale": "fr",
+        "name": "Comores"
+    },
+    {
+        "id": 274,
+        "country_id": 174,
+        "locale": "es",
+        "name": "Comoras"
+    },
+    {
+        "id": 275,
+        "country_id": 174,
+        "locale": "tr",
+        "name": "Komorlar"
+    },
+    {
+        "id": 276,
+        "country_id": 174,
+        "locale": "id",
+        "name": "Komoro"
+    },
+    {
+        "id": 277,
+        "country_id": 178,
+        "locale": "ar",
+        "name": "جمهورية الكونغو"
+    },
+    {
+        "id": 278,
+        "country_id": 178,
+        "locale": "en",
+        "name": "Republic of the Congo"
+    },
+    {
+        "id": 279,
+        "country_id": 178,
+        "locale": "fr",
+        "name": "République du Congo"
+    },
+    {
+        "id": 280,
+        "country_id": 178,
+        "locale": "es",
+        "name": "República del Congo"
+    },
+    {
+        "id": 281,
+        "country_id": 178,
+        "locale": "tr",
+        "name": "Kongo Cumhuriyeti"
+    },
+    {
+        "id": 282,
+        "country_id": 178,
+        "locale": "id",
+        "name": "Republik Kongo"
+    },
+    {
+        "id": 283,
+        "country_id": 180,
+        "locale": "ar",
+        "name": "جمهورية الكونغو الديمقراطية"
+    },
+    {
+        "id": 284,
+        "country_id": 180,
+        "locale": "en",
+        "name": "Democratic Republic of the Congo"
+    },
+    {
+        "id": 285,
+        "country_id": 180,
+        "locale": "fr",
+        "name": "République démocratique du Congo"
+    },
+    {
+        "id": 286,
+        "country_id": 180,
+        "locale": "es",
+        "name": "República Democrática del Congo"
+    },
+    {
+        "id": 287,
+        "country_id": 180,
+        "locale": "tr",
+        "name": "Demokratik Kongo Cumhuriyeti"
+    },
+    {
+        "id": 288,
+        "country_id": 180,
+        "locale": "id",
+        "name": "Republik Demokratik Kongo"
+    },
+    {
+        "id": 289,
+        "country_id": 184,
+        "locale": "ar",
+        "name": "جزر كوك"
+    },
+    {
+        "id": 290,
+        "country_id": 184,
+        "locale": "en",
+        "name": "Cook Islands"
+    },
+    {
+        "id": 291,
+        "country_id": 184,
+        "locale": "fr",
+        "name": "Îles Cook"
+    },
+    {
+        "id": 292,
+        "country_id": 184,
+        "locale": "es",
+        "name": "Islas Cook"
+    },
+    {
+        "id": 293,
+        "country_id": 184,
+        "locale": "tr",
+        "name": "Cook Adaları"
+    },
+    {
+        "id": 294,
+        "country_id": 184,
+        "locale": "id",
+        "name": "Kepulauan Cook"
+    },
+    {
+        "id": 295,
+        "country_id": 188,
+        "locale": "ar",
+        "name": "كوستاريكا"
+    },
+    {
+        "id": 296,
+        "country_id": 188,
+        "locale": "en",
+        "name": "Costa Rica"
+    },
+    {
+        "id": 297,
+        "country_id": 188,
+        "locale": "fr",
+        "name": "Costa Rica"
+    },
+    {
+        "id": 298,
+        "country_id": 188,
+        "locale": "es",
+        "name": "Costa Rica"
+    },
+    {
+        "id": 299,
+        "country_id": 188,
+        "locale": "tr",
+        "name": "Kosta Rika"
+    },
+    {
+        "id": 300,
+        "country_id": 188,
+        "locale": "id",
+        "name": "Kosta Rika"
+    },
+    {
+        "id": 301,
+        "country_id": 191,
+        "locale": "ar",
+        "name": "كرواتيا"
+    },
+    {
+        "id": 302,
+        "country_id": 191,
+        "locale": "en",
+        "name": "Croatia"
+    },
+    {
+        "id": 303,
+        "country_id": 191,
+        "locale": "fr",
+        "name": "Croatie"
+    },
+    {
+        "id": 304,
+        "country_id": 191,
+        "locale": "es",
+        "name": "Croacia"
+    },
+    {
+        "id": 305,
+        "country_id": 191,
+        "locale": "tr",
+        "name": "Hırvatistan"
+    },
+    {
+        "id": 306,
+        "country_id": 191,
+        "locale": "id",
+        "name": "Kroasia"
+    },
+    {
+        "id": 307,
+        "country_id": 192,
+        "locale": "ar",
+        "name": "كوبا"
+    },
+    {
+        "id": 308,
+        "country_id": 192,
+        "locale": "en",
+        "name": "Cuba"
+    },
+    {
+        "id": 309,
+        "country_id": 192,
+        "locale": "fr",
+        "name": "Cuba"
+    },
+    {
+        "id": 310,
+        "country_id": 192,
+        "locale": "es",
+        "name": "Cuba"
+    },
+    {
+        "id": 311,
+        "country_id": 192,
+        "locale": "tr",
+        "name": "Küba"
+    },
+    {
+        "id": 312,
+        "country_id": 192,
+        "locale": "id",
+        "name": "Kuba"
+    },
+    {
+        "id": 313,
+        "country_id": 196,
+        "locale": "ar",
+        "name": "قبرص"
+    },
+    {
+        "id": 314,
+        "country_id": 196,
+        "locale": "en",
+        "name": "Cyprus"
+    },
+    {
+        "id": 315,
+        "country_id": 196,
+        "locale": "fr",
+        "name": "Chypre"
+    },
+    {
+        "id": 316,
+        "country_id": 196,
+        "locale": "es",
+        "name": "Chipre"
+    },
+    {
+        "id": 317,
+        "country_id": 196,
+        "locale": "tr",
+        "name": "Kıbrıs Cumhuriyeti"
+    },
+    {
+        "id": 318,
+        "country_id": 196,
+        "locale": "id",
+        "name": "Siprus"
+    },
+    {
+        "id": 319,
+        "country_id": 203,
+        "locale": "ar",
+        "name": "التشيك"
+    },
+    {
+        "id": 320,
+        "country_id": 203,
+        "locale": "en",
+        "name": "Czech Republic"
+    },
+    {
+        "id": 321,
+        "country_id": 203,
+        "locale": "fr",
+        "name": "Tchéquie"
+    },
+    {
+        "id": 322,
+        "country_id": 203,
+        "locale": "es",
+        "name": "República Checa"
+    },
+    {
+        "id": 323,
+        "country_id": 203,
+        "locale": "tr",
+        "name": "Çek Cumhuriyeti"
+    },
+    {
+        "id": 324,
+        "country_id": 203,
+        "locale": "id",
+        "name": "Republik Ceko"
+    },
+    {
+        "id": 325,
+        "country_id": 204,
+        "locale": "ar",
+        "name": "بنين"
+    },
+    {
+        "id": 326,
+        "country_id": 204,
+        "locale": "en",
+        "name": "Benin"
+    },
+    {
+        "id": 327,
+        "country_id": 204,
+        "locale": "fr",
+        "name": "Bénin"
+    },
+    {
+        "id": 328,
+        "country_id": 204,
+        "locale": "es",
+        "name": "Benín"
+    },
+    {
+        "id": 329,
+        "country_id": 204,
+        "locale": "tr",
+        "name": "Benin"
+    },
+    {
+        "id": 330,
+        "country_id": 204,
+        "locale": "id",
+        "name": "Benin"
+    },
+    {
+        "id": 331,
+        "country_id": 208,
+        "locale": "ar",
+        "name": "الدنمارك"
+    },
+    {
+        "id": 332,
+        "country_id": 208,
+        "locale": "en",
+        "name": "Denmark"
+    },
+    {
+        "id": 333,
+        "country_id": 208,
+        "locale": "fr",
+        "name": "Danemark"
+    },
+    {
+        "id": 334,
+        "country_id": 208,
+        "locale": "es",
+        "name": "Dinamarca"
+    },
+    {
+        "id": 335,
+        "country_id": 208,
+        "locale": "tr",
+        "name": "Danimarka"
+    },
+    {
+        "id": 336,
+        "country_id": 208,
+        "locale": "id",
+        "name": "Denmark"
+    },
+    {
+        "id": 337,
+        "country_id": 212,
+        "locale": "ar",
+        "name": "دومينيكا"
+    },
+    {
+        "id": 338,
+        "country_id": 212,
+        "locale": "en",
+        "name": "Dominica"
+    },
+    {
+        "id": 339,
+        "country_id": 212,
+        "locale": "fr",
+        "name": "Dominique"
+    },
+    {
+        "id": 340,
+        "country_id": 212,
+        "locale": "es",
+        "name": "Dominica"
+    },
+    {
+        "id": 341,
+        "country_id": 212,
+        "locale": "tr",
+        "name": "Dominika"
+    },
+    {
+        "id": 342,
+        "country_id": 212,
+        "locale": "id",
+        "name": "Dominika"
+    },
+    {
+        "id": 343,
+        "country_id": 214,
+        "locale": "ar",
+        "name": "جمهورية الدومينيكان"
+    },
+    {
+        "id": 344,
+        "country_id": 214,
+        "locale": "en",
+        "name": "Dominican Republic"
+    },
+    {
+        "id": 345,
+        "country_id": 214,
+        "locale": "fr",
+        "name": "République dominicaine"
+    },
+    {
+        "id": 346,
+        "country_id": 214,
+        "locale": "es",
+        "name": "República Dominicana"
+    },
+    {
+        "id": 347,
+        "country_id": 214,
+        "locale": "tr",
+        "name": "Dominik Cumhuriyeti"
+    },
+    {
+        "id": 348,
+        "country_id": 214,
+        "locale": "id",
+        "name": "Republik Dominika"
+    },
+    {
+        "id": 349,
+        "country_id": 218,
+        "locale": "ar",
+        "name": "الإكوادور"
+    },
+    {
+        "id": 350,
+        "country_id": 218,
+        "locale": "en",
+        "name": "Ecuador"
+    },
+    {
+        "id": 351,
+        "country_id": 218,
+        "locale": "fr",
+        "name": "Équateur"
+    },
+    {
+        "id": 352,
+        "country_id": 218,
+        "locale": "es",
+        "name": "Ecuador"
+    },
+    {
+        "id": 353,
+        "country_id": 218,
+        "locale": "tr",
+        "name": "Ekvador"
+    },
+    {
+        "id": 354,
+        "country_id": 218,
+        "locale": "id",
+        "name": "Ekuador"
+    },
+    {
+        "id": 355,
+        "country_id": 222,
+        "locale": "ar",
+        "name": "السلفادور"
+    },
+    {
+        "id": 356,
+        "country_id": 222,
+        "locale": "en",
+        "name": "El Salvador"
+    },
+    {
+        "id": 357,
+        "country_id": 222,
+        "locale": "fr",
+        "name": "Salvador"
+    },
+    {
+        "id": 358,
+        "country_id": 222,
+        "locale": "es",
+        "name": "El Salvador"
+    },
+    {
+        "id": 359,
+        "country_id": 222,
+        "locale": "tr",
+        "name": "El Salvador"
+    },
+    {
+        "id": 360,
+        "country_id": 222,
+        "locale": "id",
+        "name": "El Salvador"
+    },
+    {
+        "id": 361,
+        "country_id": 226,
+        "locale": "ar",
+        "name": "غينيا الاستوائية"
+    },
+    {
+        "id": 362,
+        "country_id": 226,
+        "locale": "en",
+        "name": "Equatorial Guinea"
+    },
+    {
+        "id": 363,
+        "country_id": 226,
+        "locale": "fr",
+        "name": "Guinée équatoriale"
+    },
+    {
+        "id": 364,
+        "country_id": 226,
+        "locale": "es",
+        "name": "Guinea Ecuatorial"
+    },
+    {
+        "id": 365,
+        "country_id": 226,
+        "locale": "tr",
+        "name": "Ekvator Ginesi"
+    },
+    {
+        "id": 366,
+        "country_id": 226,
+        "locale": "id",
+        "name": "Guinea Khatulistiwa"
+    },
+    {
+        "id": 367,
+        "country_id": 231,
+        "locale": "ar",
+        "name": "إثيوبيا"
+    },
+    {
+        "id": 368,
+        "country_id": 231,
+        "locale": "en",
+        "name": "Ethiopia"
+    },
+    {
+        "id": 369,
+        "country_id": 231,
+        "locale": "fr",
+        "name": "Éthiopie"
+    },
+    {
+        "id": 370,
+        "country_id": 231,
+        "locale": "es",
+        "name": "Etiopía"
+    },
+    {
+        "id": 371,
+        "country_id": 231,
+        "locale": "tr",
+        "name": "Etiyopya"
+    },
+    {
+        "id": 372,
+        "country_id": 231,
+        "locale": "id",
+        "name": "Ethiopia"
+    },
+    {
+        "id": 373,
+        "country_id": 232,
+        "locale": "ar",
+        "name": "إريتريا"
+    },
+    {
+        "id": 374,
+        "country_id": 232,
+        "locale": "en",
+        "name": "Eritrea"
+    },
+    {
+        "id": 375,
+        "country_id": 232,
+        "locale": "fr",
+        "name": "Érythrée"
+    },
+    {
+        "id": 376,
+        "country_id": 232,
+        "locale": "es",
+        "name": "Eritrea"
+    },
+    {
+        "id": 377,
+        "country_id": 232,
+        "locale": "tr",
+        "name": "Eritre"
+    },
+    {
+        "id": 378,
+        "country_id": 232,
+        "locale": "id",
+        "name": "Eritrea"
+    },
+    {
+        "id": 379,
+        "country_id": 233,
+        "locale": "ar",
+        "name": "إستونيا"
+    },
+    {
+        "id": 380,
+        "country_id": 233,
+        "locale": "en",
+        "name": "Estonia"
+    },
+    {
+        "id": 381,
+        "country_id": 233,
+        "locale": "fr",
+        "name": "Estonie"
+    },
+    {
+        "id": 382,
+        "country_id": 233,
+        "locale": "es",
+        "name": "Estonia"
+    },
+    {
+        "id": 383,
+        "country_id": 233,
+        "locale": "tr",
+        "name": "Estonya"
+    },
+    {
+        "id": 384,
+        "country_id": 233,
+        "locale": "id",
+        "name": "Estonia"
+    },
+    {
+        "id": 385,
+        "country_id": 234,
+        "locale": "ar",
+        "name": "جزر فارو"
+    },
+    {
+        "id": 386,
+        "country_id": 234,
+        "locale": "en",
+        "name": "Faroe Islands"
+    },
+    {
+        "id": 387,
+        "country_id": 234,
+        "locale": "fr",
+        "name": "îles Féroé"
+    },
+    {
+        "id": 388,
+        "country_id": 234,
+        "locale": "es",
+        "name": "Islas Feroe"
+    },
+    {
+        "id": 389,
+        "country_id": 234,
+        "locale": "tr",
+        "name": "Faroe Adaları"
+    },
+    {
+        "id": 390,
+        "country_id": 234,
+        "locale": "id",
+        "name": "Kepulauan Faroe"
+    },
+    {
+        "id": 391,
+        "country_id": 238,
+        "locale": "ar",
+        "name": "جزر فوكلاند"
+    },
+    {
+        "id": 392,
+        "country_id": 238,
+        "locale": "en",
+        "name": "Falkland Islands"
+    },
+    {
+        "id": 393,
+        "country_id": 238,
+        "locale": "fr",
+        "name": "îles Malouines"
+    },
+    {
+        "id": 394,
+        "country_id": 238,
+        "locale": "es",
+        "name": "Islas Malvinas"
+    },
+    {
+        "id": 395,
+        "country_id": 238,
+        "locale": "tr",
+        "name": "Falkland Adaları"
+    },
+    {
+        "id": 396,
+        "country_id": 238,
+        "locale": "id",
+        "name": "Kepulauan Falkland"
+    },
+    {
+        "id": 397,
+        "country_id": 239,
+        "locale": "ar",
+        "name": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+    },
+    {
+        "id": 398,
+        "country_id": 239,
+        "locale": "en",
+        "name": "South Georgia and the South Sandwich Islands"
+    },
+    {
+        "id": 399,
+        "country_id": 239,
+        "locale": "fr",
+        "name": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+    },
+    {
+        "id": 400,
+        "country_id": 239,
+        "locale": "es",
+        "name": "Islas Georgias del Sur y Sandwich del Sur"
+    },
+    {
+        "id": 401,
+        "country_id": 239,
+        "locale": "tr",
+        "name": "Güney Georgia ve Güney Sandwich Adaları"
+    },
+    {
+        "id": 402,
+        "country_id": 239,
+        "locale": "id",
+        "name": "Georgia Selatan dan Kepulauan Sandwich Selatan"
+    },
+    {
+        "id": 403,
+        "country_id": 242,
+        "locale": "ar",
+        "name": "فيجي"
+    },
+    {
+        "id": 404,
+        "country_id": 242,
+        "locale": "en",
+        "name": "Fiji"
+    },
+    {
+        "id": 405,
+        "country_id": 242,
+        "locale": "fr",
+        "name": "Fidji"
+    },
+    {
+        "id": 406,
+        "country_id": 242,
+        "locale": "es",
+        "name": "Fiyi"
+    },
+    {
+        "id": 407,
+        "country_id": 242,
+        "locale": "tr",
+        "name": "Fiji"
+    },
+    {
+        "id": 408,
+        "country_id": 242,
+        "locale": "id",
+        "name": "Fiji"
+    },
+    {
+        "id": 409,
+        "country_id": 246,
+        "locale": "ar",
+        "name": "فنلندا"
+    },
+    {
+        "id": 410,
+        "country_id": 246,
+        "locale": "en",
+        "name": "Finland"
+    },
+    {
+        "id": 411,
+        "country_id": 246,
+        "locale": "fr",
+        "name": "Finlande"
+    },
+    {
+        "id": 412,
+        "country_id": 246,
+        "locale": "es",
+        "name": "Finlandia"
+    },
+    {
+        "id": 413,
+        "country_id": 246,
+        "locale": "tr",
+        "name": "Finlandiya"
+    },
+    {
+        "id": 414,
+        "country_id": 246,
+        "locale": "id",
+        "name": "Finlandia"
+    },
+    {
+        "id": 415,
+        "country_id": 248,
+        "locale": "ar",
+        "name": "جزر أولاند"
+    },
+    {
+        "id": 416,
+        "country_id": 248,
+        "locale": "en",
+        "name": "Åland"
+    },
+    {
+        "id": 417,
+        "country_id": 248,
+        "locale": "fr",
+        "name": "Åland"
+    },
+    {
+        "id": 418,
+        "country_id": 248,
+        "locale": "es",
+        "name": "Åland"
+    },
+    {
+        "id": 419,
+        "country_id": 248,
+        "locale": "tr",
+        "name": "Åland"
+    },
+    {
+        "id": 420,
+        "country_id": 248,
+        "locale": "id",
+        "name": "Åland"
+    },
+    {
+        "id": 421,
+        "country_id": 250,
+        "locale": "ar",
+        "name": "فرنسا"
+    },
+    {
+        "id": 422,
+        "country_id": 250,
+        "locale": "en",
+        "name": "France"
+    },
+    {
+        "id": 423,
+        "country_id": 250,
+        "locale": "fr",
+        "name": "France"
+    },
+    {
+        "id": 424,
+        "country_id": 250,
+        "locale": "es",
+        "name": "Francia"
+    },
+    {
+        "id": 425,
+        "country_id": 250,
+        "locale": "tr",
+        "name": "Fransa"
+    },
+    {
+        "id": 426,
+        "country_id": 250,
+        "locale": "id",
+        "name": "Prancis"
+    },
+    {
+        "id": 427,
+        "country_id": 258,
+        "locale": "ar",
+        "name": "بولينزيا الفرنسية"
+    },
+    {
+        "id": 428,
+        "country_id": 258,
+        "locale": "en",
+        "name": "French Polynesia"
+    },
+    {
+        "id": 429,
+        "country_id": 258,
+        "locale": "fr",
+        "name": "Polynésie française"
+    },
+    {
+        "id": 430,
+        "country_id": 258,
+        "locale": "es",
+        "name": "Polinesia Francesa"
+    },
+    {
+        "id": 431,
+        "country_id": 258,
+        "locale": "tr",
+        "name": "Fransız Polinezyası"
+    },
+    {
+        "id": 432,
+        "country_id": 258,
+        "locale": "id",
+        "name": "Polinesia Prancis"
+    },
+    {
+        "id": 433,
+        "country_id": 260,
+        "locale": "ar",
+        "name": "أراض فرنسية جنوبية وأنتارتيكية"
+    },
+    {
+        "id": 434,
+        "country_id": 260,
+        "locale": "en",
+        "name": "French Southern and Antarctic Lands"
+    },
+    {
+        "id": 435,
+        "country_id": 260,
+        "locale": "fr",
+        "name": "Terres australes et antarctiques françaises"
+    },
+    {
+        "id": 436,
+        "country_id": 260,
+        "locale": "es",
+        "name": "Tierras Australes y Antárticas Francesas"
+    },
+    {
+        "id": 437,
+        "country_id": 260,
+        "locale": "tr",
+        "name": "Fransız Güney ve Antarktika Toprakları"
+    },
+    {
+        "id": 438,
+        "country_id": 260,
+        "locale": "id",
+        "name": "Daratan Selatan dan Antarktika Perancis"
+    },
+    {
+        "id": 439,
+        "country_id": 262,
+        "locale": "ar",
+        "name": "جيبوتي"
+    },
+    {
+        "id": 440,
+        "country_id": 262,
+        "locale": "en",
+        "name": "Djibouti"
+    },
+    {
+        "id": 441,
+        "country_id": 262,
+        "locale": "fr",
+        "name": "Djibouti"
+    },
+    {
+        "id": 442,
+        "country_id": 262,
+        "locale": "es",
+        "name": "Yibuti"
+    },
+    {
+        "id": 443,
+        "country_id": 262,
+        "locale": "tr",
+        "name": "Cibuti"
+    },
+    {
+        "id": 444,
+        "country_id": 262,
+        "locale": "id",
+        "name": "Djibouti"
+    },
+    {
+        "id": 445,
+        "country_id": 266,
+        "locale": "ar",
+        "name": "الغابون"
+    },
+    {
+        "id": 446,
+        "country_id": 266,
+        "locale": "en",
+        "name": "Gabon"
+    },
+    {
+        "id": 447,
+        "country_id": 266,
+        "locale": "fr",
+        "name": "Gabon"
+    },
+    {
+        "id": 448,
+        "country_id": 266,
+        "locale": "es",
+        "name": "Gabón"
+    },
+    {
+        "id": 449,
+        "country_id": 266,
+        "locale": "tr",
+        "name": "Gabon"
+    },
+    {
+        "id": 450,
+        "country_id": 266,
+        "locale": "id",
+        "name": "Gabon"
+    },
+    {
+        "id": 451,
+        "country_id": 268,
+        "locale": "ar",
+        "name": "جورجيا"
+    },
+    {
+        "id": 452,
+        "country_id": 268,
+        "locale": "en",
+        "name": "Georgia"
+    },
+    {
+        "id": 453,
+        "country_id": 268,
+        "locale": "fr",
+        "name": "Géorgie"
+    },
+    {
+        "id": 454,
+        "country_id": 268,
+        "locale": "es",
+        "name": "Georgia"
+    },
+    {
+        "id": 455,
+        "country_id": 268,
+        "locale": "tr",
+        "name": "Gürcistan"
+    },
+    {
+        "id": 456,
+        "country_id": 268,
+        "locale": "id",
+        "name": "Georgia"
+    },
+    {
+        "id": 457,
+        "country_id": 270,
+        "locale": "ar",
+        "name": "غامبيا"
+    },
+    {
+        "id": 458,
+        "country_id": 270,
+        "locale": "en",
+        "name": "The Gambia"
+    },
+    {
+        "id": 459,
+        "country_id": 270,
+        "locale": "fr",
+        "name": "Gambie"
+    },
+    {
+        "id": 460,
+        "country_id": 270,
+        "locale": "es",
+        "name": "Gambia"
+    },
+    {
+        "id": 461,
+        "country_id": 270,
+        "locale": "tr",
+        "name": "Gambiya"
+    },
+    {
+        "id": 462,
+        "country_id": 270,
+        "locale": "id",
+        "name": "Gambia"
+    },
+    {
+        "id": 463,
+        "country_id": 275,
+        "locale": "ar",
+        "name": "فلسطين"
+    },
+    {
+        "id": 464,
+        "country_id": 275,
+        "locale": "en",
+        "name": "Palestine"
+    },
+    {
+        "id": 465,
+        "country_id": 275,
+        "locale": "fr",
+        "name": "Palestine"
+    },
+    {
+        "id": 466,
+        "country_id": 275,
+        "locale": "es",
+        "name": "Palestina"
+    },
+    {
+        "id": 467,
+        "country_id": 275,
+        "locale": "tr",
+        "name": "Filistin"
+    },
+    {
+        "id": 468,
+        "country_id": 275,
+        "locale": "id",
+        "name": "Palestina"
+    },
+    {
+        "id": 469,
+        "country_id": 276,
+        "locale": "ar",
+        "name": "ألمانيا"
+    },
+    {
+        "id": 470,
+        "country_id": 276,
+        "locale": "en",
+        "name": "Germany"
+    },
+    {
+        "id": 471,
+        "country_id": 276,
+        "locale": "fr",
+        "name": "Allemagne"
+    },
+    {
+        "id": 472,
+        "country_id": 276,
+        "locale": "es",
+        "name": "Alemania"
+    },
+    {
+        "id": 473,
+        "country_id": 276,
+        "locale": "tr",
+        "name": "Almanya"
+    },
+    {
+        "id": 474,
+        "country_id": 276,
+        "locale": "id",
+        "name": "Jerman"
+    },
+    {
+        "id": 475,
+        "country_id": 288,
+        "locale": "ar",
+        "name": "غانا"
+    },
+    {
+        "id": 476,
+        "country_id": 288,
+        "locale": "en",
+        "name": "Ghana"
+    },
+    {
+        "id": 477,
+        "country_id": 288,
+        "locale": "fr",
+        "name": "Ghana"
+    },
+    {
+        "id": 478,
+        "country_id": 288,
+        "locale": "es",
+        "name": "Ghana"
+    },
+    {
+        "id": 479,
+        "country_id": 288,
+        "locale": "tr",
+        "name": "Gana"
+    },
+    {
+        "id": 480,
+        "country_id": 288,
+        "locale": "id",
+        "name": "Ghana"
+    },
+    {
+        "id": 481,
+        "country_id": 292,
+        "locale": "ar",
+        "name": "جبل طارق"
+    },
+    {
+        "id": 482,
+        "country_id": 292,
+        "locale": "en",
+        "name": "Gibraltar"
+    },
+    {
+        "id": 483,
+        "country_id": 292,
+        "locale": "fr",
+        "name": "Gibraltar"
+    },
+    {
+        "id": 484,
+        "country_id": 292,
+        "locale": "es",
+        "name": "Gibraltar"
+    },
+    {
+        "id": 485,
+        "country_id": 292,
+        "locale": "tr",
+        "name": "Cebelitarık"
+    },
+    {
+        "id": 486,
+        "country_id": 292,
+        "locale": "id",
+        "name": "Gibraltar"
+    },
+    {
+        "id": 487,
+        "country_id": 296,
+        "locale": "ar",
+        "name": "كيريباتي"
+    },
+    {
+        "id": 488,
+        "country_id": 296,
+        "locale": "en",
+        "name": "Kiribati"
+    },
+    {
+        "id": 489,
+        "country_id": 296,
+        "locale": "fr",
+        "name": "Kiribati"
+    },
+    {
+        "id": 490,
+        "country_id": 296,
+        "locale": "es",
+        "name": "Kiribati"
+    },
+    {
+        "id": 491,
+        "country_id": 296,
+        "locale": "tr",
+        "name": "Kiribati"
+    },
+    {
+        "id": 492,
+        "country_id": 296,
+        "locale": "id",
+        "name": "Kiribati"
+    },
+    {
+        "id": 493,
+        "country_id": 300,
+        "locale": "ar",
+        "name": "اليونان"
+    },
+    {
+        "id": 494,
+        "country_id": 300,
+        "locale": "en",
+        "name": "Greece"
+    },
+    {
+        "id": 495,
+        "country_id": 300,
+        "locale": "fr",
+        "name": "Grèce"
+    },
+    {
+        "id": 496,
+        "country_id": 300,
+        "locale": "es",
+        "name": "Grecia"
+    },
+    {
+        "id": 497,
+        "country_id": 300,
+        "locale": "tr",
+        "name": "Yunanistan"
+    },
+    {
+        "id": 498,
+        "country_id": 300,
+        "locale": "id",
+        "name": "Yunani"
+    },
+    {
+        "id": 499,
+        "country_id": 304,
+        "locale": "ar",
+        "name": "جرينلاند"
+    },
+    {
+        "id": 500,
+        "country_id": 304,
+        "locale": "en",
+        "name": "Greenland"
+    },
+    {
+        "id": 501,
+        "country_id": 304,
+        "locale": "fr",
+        "name": "Groenland"
+    },
+    {
+        "id": 502,
+        "country_id": 304,
+        "locale": "es",
+        "name": "Groenlandia"
+    },
+    {
+        "id": 503,
+        "country_id": 304,
+        "locale": "tr",
+        "name": "Grönland"
+    },
+    {
+        "id": 504,
+        "country_id": 304,
+        "locale": "id",
+        "name": "Greenland"
+    },
+    {
+        "id": 505,
+        "country_id": 308,
+        "locale": "ar",
+        "name": "غرينادا"
+    },
+    {
+        "id": 506,
+        "country_id": 308,
+        "locale": "en",
+        "name": "Grenada"
+    },
+    {
+        "id": 507,
+        "country_id": 308,
+        "locale": "fr",
+        "name": "Grenade"
+    },
+    {
+        "id": 508,
+        "country_id": 308,
+        "locale": "es",
+        "name": "Granada"
+    },
+    {
+        "id": 509,
+        "country_id": 308,
+        "locale": "tr",
+        "name": "Grenada"
+    },
+    {
+        "id": 510,
+        "country_id": 308,
+        "locale": "id",
+        "name": "Grenada"
+    },
+    {
+        "id": 511,
+        "country_id": 316,
+        "locale": "ar",
+        "name": "غوام"
+    },
+    {
+        "id": 512,
+        "country_id": 316,
+        "locale": "en",
+        "name": "Guam"
+    },
+    {
+        "id": 513,
+        "country_id": 316,
+        "locale": "fr",
+        "name": "Guam"
+    },
+    {
+        "id": 514,
+        "country_id": 316,
+        "locale": "es",
+        "name": "Guam"
+    },
+    {
+        "id": 515,
+        "country_id": 316,
+        "locale": "tr",
+        "name": "Guam"
+    },
+    {
+        "id": 516,
+        "country_id": 316,
+        "locale": "id",
+        "name": "Guam"
+    },
+    {
+        "id": 517,
+        "country_id": 320,
+        "locale": "ar",
+        "name": "غواتيمالا"
+    },
+    {
+        "id": 518,
+        "country_id": 320,
+        "locale": "en",
+        "name": "Guatemala"
+    },
+    {
+        "id": 519,
+        "country_id": 320,
+        "locale": "fr",
+        "name": "Guatemala"
+    },
+    {
+        "id": 520,
+        "country_id": 320,
+        "locale": "es",
+        "name": "Guatemala"
+    },
+    {
+        "id": 521,
+        "country_id": 320,
+        "locale": "tr",
+        "name": "Guatemala"
+    },
+    {
+        "id": 522,
+        "country_id": 320,
+        "locale": "id",
+        "name": "Guatemala"
+    },
+    {
+        "id": 523,
+        "country_id": 324,
+        "locale": "ar",
+        "name": "غينيا"
+    },
+    {
+        "id": 524,
+        "country_id": 324,
+        "locale": "en",
+        "name": "Guinea"
+    },
+    {
+        "id": 525,
+        "country_id": 324,
+        "locale": "fr",
+        "name": "Guinée"
+    },
+    {
+        "id": 526,
+        "country_id": 324,
+        "locale": "es",
+        "name": "Guinea"
+    },
+    {
+        "id": 527,
+        "country_id": 324,
+        "locale": "tr",
+        "name": "Gine"
+    },
+    {
+        "id": 528,
+        "country_id": 324,
+        "locale": "id",
+        "name": "Guinea"
+    },
+    {
+        "id": 529,
+        "country_id": 328,
+        "locale": "ar",
+        "name": "غيانا"
+    },
+    {
+        "id": 530,
+        "country_id": 328,
+        "locale": "en",
+        "name": "Guyana"
+    },
+    {
+        "id": 531,
+        "country_id": 328,
+        "locale": "fr",
+        "name": "Guyana"
+    },
+    {
+        "id": 532,
+        "country_id": 328,
+        "locale": "es",
+        "name": "Guyana"
+    },
+    {
+        "id": 533,
+        "country_id": 328,
+        "locale": "tr",
+        "name": "Guyana"
+    },
+    {
+        "id": 534,
+        "country_id": 328,
+        "locale": "id",
+        "name": "Guyana"
+    },
+    {
+        "id": 535,
+        "country_id": 332,
+        "locale": "ar",
+        "name": "هايتي"
+    },
+    {
+        "id": 536,
+        "country_id": 332,
+        "locale": "en",
+        "name": "Haiti"
+    },
+    {
+        "id": 537,
+        "country_id": 332,
+        "locale": "fr",
+        "name": "Haïti"
+    },
+    {
+        "id": 538,
+        "country_id": 332,
+        "locale": "es",
+        "name": "Haití"
+    },
+    {
+        "id": 539,
+        "country_id": 332,
+        "locale": "tr",
+        "name": "Haiti"
+    },
+    {
+        "id": 540,
+        "country_id": 332,
+        "locale": "id",
+        "name": "Haiti"
+    },
+    {
+        "id": 541,
+        "country_id": 334,
+        "locale": "ar",
+        "name": "جزيرة هيرد وجزر ماكدونالد"
+    },
+    {
+        "id": 542,
+        "country_id": 334,
+        "locale": "en",
+        "name": "Heard Island and McDonald Islands"
+    },
+    {
+        "id": 543,
+        "country_id": 334,
+        "locale": "fr",
+        "name": "îles Heard-et-MacDonald"
+    },
+    {
+        "id": 544,
+        "country_id": 334,
+        "locale": "es",
+        "name": "Islas Heard y McDonald"
+    },
+    {
+        "id": 545,
+        "country_id": 334,
+        "locale": "tr",
+        "name": "Heard Adası ve McDonald Adaları"
+    },
+    {
+        "id": 546,
+        "country_id": 334,
+        "locale": "id",
+        "name": "Pulau Heard dan Kepulauan McDonald"
+    },
+    {
+        "id": 547,
+        "country_id": 336,
+        "locale": "ar",
+        "name": "الفاتيكان"
+    },
+    {
+        "id": 548,
+        "country_id": 336,
+        "locale": "en",
+        "name": "Vatican City"
+    },
+    {
+        "id": 549,
+        "country_id": 336,
+        "locale": "fr",
+        "name": "Cité du Vatican"
+    },
+    {
+        "id": 550,
+        "country_id": 336,
+        "locale": "es",
+        "name": "Ciudad del Vaticano"
+    },
+    {
+        "id": 551,
+        "country_id": 336,
+        "locale": "tr",
+        "name": "Vatikan"
+    },
+    {
+        "id": 552,
+        "country_id": 336,
+        "locale": "id",
+        "name": "Vatikan"
+    },
+    {
+        "id": 553,
+        "country_id": 340,
+        "locale": "ar",
+        "name": "هندوراس"
+    },
+    {
+        "id": 554,
+        "country_id": 340,
+        "locale": "en",
+        "name": "Honduras"
+    },
+    {
+        "id": 555,
+        "country_id": 340,
+        "locale": "fr",
+        "name": "Honduras"
+    },
+    {
+        "id": 556,
+        "country_id": 340,
+        "locale": "es",
+        "name": "Honduras"
+    },
+    {
+        "id": 557,
+        "country_id": 340,
+        "locale": "tr",
+        "name": "Honduras"
+    },
+    {
+        "id": 558,
+        "country_id": 340,
+        "locale": "id",
+        "name": "Honduras"
+    },
+    {
+        "id": 559,
+        "country_id": 344,
+        "locale": "ar",
+        "name": "هونغ كونغ"
+    },
+    {
+        "id": 560,
+        "country_id": 344,
+        "locale": "en",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 561,
+        "country_id": 344,
+        "locale": "fr",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 562,
+        "country_id": 344,
+        "locale": "es",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 563,
+        "country_id": 344,
+        "locale": "tr",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 564,
+        "country_id": 344,
+        "locale": "id",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 565,
+        "country_id": 348,
+        "locale": "ar",
+        "name": "المجر"
+    },
+    {
+        "id": 566,
+        "country_id": 348,
+        "locale": "en",
+        "name": "Hungary"
+    },
+    {
+        "id": 567,
+        "country_id": 348,
+        "locale": "fr",
+        "name": "Hongrie"
+    },
+    {
+        "id": 568,
+        "country_id": 348,
+        "locale": "es",
+        "name": "Hungría"
+    },
+    {
+        "id": 569,
+        "country_id": 348,
+        "locale": "tr",
+        "name": "Macaristan"
+    },
+    {
+        "id": 570,
+        "country_id": 348,
+        "locale": "id",
+        "name": "Hongaria"
+    },
+    {
+        "id": 571,
+        "country_id": 352,
+        "locale": "ar",
+        "name": "آيسلندا"
+    },
+    {
+        "id": 572,
+        "country_id": 352,
+        "locale": "en",
+        "name": "Iceland"
+    },
+    {
+        "id": 573,
+        "country_id": 352,
+        "locale": "fr",
+        "name": "Islande"
+    },
+    {
+        "id": 574,
+        "country_id": 352,
+        "locale": "es",
+        "name": "Islandia"
+    },
+    {
+        "id": 575,
+        "country_id": 352,
+        "locale": "tr",
+        "name": "İzlanda"
+    },
+    {
+        "id": 576,
+        "country_id": 352,
+        "locale": "id",
+        "name": "Islandia"
+    },
+    {
+        "id": 577,
+        "country_id": 356,
+        "locale": "ar",
+        "name": "الهند"
+    },
+    {
+        "id": 578,
+        "country_id": 356,
+        "locale": "en",
+        "name": "India"
+    },
+    {
+        "id": 579,
+        "country_id": 356,
+        "locale": "fr",
+        "name": "Inde"
+    },
+    {
+        "id": 580,
+        "country_id": 356,
+        "locale": "es",
+        "name": "India"
+    },
+    {
+        "id": 581,
+        "country_id": 356,
+        "locale": "tr",
+        "name": "Hindistan"
+    },
+    {
+        "id": 582,
+        "country_id": 356,
+        "locale": "id",
+        "name": "India"
+    },
+    {
+        "id": 583,
+        "country_id": 360,
+        "locale": "ar",
+        "name": "إندونيسيا"
+    },
+    {
+        "id": 584,
+        "country_id": 360,
+        "locale": "en",
+        "name": "Indonesia"
+    },
+    {
+        "id": 585,
+        "country_id": 360,
+        "locale": "fr",
+        "name": "Indonésie"
+    },
+    {
+        "id": 586,
+        "country_id": 360,
+        "locale": "es",
+        "name": "Indonesia"
+    },
+    {
+        "id": 587,
+        "country_id": 360,
+        "locale": "tr",
+        "name": "Endonezya"
+    },
+    {
+        "id": 588,
+        "country_id": 360,
+        "locale": "id",
+        "name": "Indonesia"
+    },
+    {
+        "id": 589,
+        "country_id": 364,
+        "locale": "ar",
+        "name": "إيران"
+    },
+    {
+        "id": 590,
+        "country_id": 364,
+        "locale": "en",
+        "name": "Iran"
+    },
+    {
+        "id": 591,
+        "country_id": 364,
+        "locale": "fr",
+        "name": "Iran"
+    },
+    {
+        "id": 592,
+        "country_id": 364,
+        "locale": "es",
+        "name": "Irán"
+    },
+    {
+        "id": 593,
+        "country_id": 364,
+        "locale": "tr",
+        "name": "İran"
+    },
+    {
+        "id": 594,
+        "country_id": 364,
+        "locale": "id",
+        "name": "Iran"
+    },
+    {
+        "id": 595,
+        "country_id": 368,
+        "locale": "ar",
+        "name": "العراق"
+    },
+    {
+        "id": 596,
+        "country_id": 368,
+        "locale": "en",
+        "name": "Iraq"
+    },
+    {
+        "id": 597,
+        "country_id": 368,
+        "locale": "fr",
+        "name": "Irak"
+    },
+    {
+        "id": 598,
+        "country_id": 368,
+        "locale": "es",
+        "name": "Irak"
+    },
+    {
+        "id": 599,
+        "country_id": 368,
+        "locale": "tr",
+        "name": "Irak"
+    },
+    {
+        "id": 600,
+        "country_id": 368,
+        "locale": "id",
+        "name": "Irak"
+    },
+    {
+        "id": 601,
+        "country_id": 372,
+        "locale": "ar",
+        "name": "جمهورية أيرلندا"
+    },
+    {
+        "id": 602,
+        "country_id": 372,
+        "locale": "en",
+        "name": "Ireland"
+    },
+    {
+        "id": 603,
+        "country_id": 372,
+        "locale": "fr",
+        "name": "Irlande"
+    },
+    {
+        "id": 604,
+        "country_id": 372,
+        "locale": "es",
+        "name": "Irlanda"
+    },
+    {
+        "id": 605,
+        "country_id": 372,
+        "locale": "tr",
+        "name": "İrlanda"
+    },
+    {
+        "id": 606,
+        "country_id": 372,
+        "locale": "id",
+        "name": "Republik Irlandia"
+    },
+    {
+        "id": 607,
+        "country_id": 376,
+        "locale": "ar",
+        "name": "إسرائيل"
+    },
+    {
+        "id": 608,
+        "country_id": 376,
+        "locale": "en",
+        "name": "Israel"
+    },
+    {
+        "id": 609,
+        "country_id": 376,
+        "locale": "fr",
+        "name": "Israël"
+    },
+    {
+        "id": 610,
+        "country_id": 376,
+        "locale": "es",
+        "name": "Israel"
+    },
+    {
+        "id": 611,
+        "country_id": 376,
+        "locale": "tr",
+        "name": "İsrail"
+    },
+    {
+        "id": 612,
+        "country_id": 376,
+        "locale": "id",
+        "name": "Israel"
+    },
+    {
+        "id": 613,
+        "country_id": 380,
+        "locale": "ar",
+        "name": "إيطاليا"
+    },
+    {
+        "id": 614,
+        "country_id": 380,
+        "locale": "en",
+        "name": "Italy"
+    },
+    {
+        "id": 615,
+        "country_id": 380,
+        "locale": "fr",
+        "name": "Italie"
+    },
+    {
+        "id": 616,
+        "country_id": 380,
+        "locale": "es",
+        "name": "Italia"
+    },
+    {
+        "id": 617,
+        "country_id": 380,
+        "locale": "tr",
+        "name": "İtalya"
+    },
+    {
+        "id": 618,
+        "country_id": 380,
+        "locale": "id",
+        "name": "Italia"
+    },
+    {
+        "id": 619,
+        "country_id": 384,
+        "locale": "ar",
+        "name": "ساحل العاج"
+    },
+    {
+        "id": 620,
+        "country_id": 384,
+        "locale": "en",
+        "name": "Ivory Coast"
+    },
+    {
+        "id": 621,
+        "country_id": 384,
+        "locale": "fr",
+        "name": "Côte d'Ivoire"
+    },
+    {
+        "id": 622,
+        "country_id": 384,
+        "locale": "es",
+        "name": "Costa de Marfil"
+    },
+    {
+        "id": 623,
+        "country_id": 384,
+        "locale": "tr",
+        "name": "Fildişi Sahili"
+    },
+    {
+        "id": 624,
+        "country_id": 384,
+        "locale": "id",
+        "name": "Pantai Gading"
+    },
+    {
+        "id": 625,
+        "country_id": 388,
+        "locale": "ar",
+        "name": "جامايكا"
+    },
+    {
+        "id": 626,
+        "country_id": 388,
+        "locale": "en",
+        "name": "Jamaica"
+    },
+    {
+        "id": 627,
+        "country_id": 388,
+        "locale": "fr",
+        "name": "Jamaïque"
+    },
+    {
+        "id": 628,
+        "country_id": 388,
+        "locale": "es",
+        "name": "Jamaica"
+    },
+    {
+        "id": 629,
+        "country_id": 388,
+        "locale": "tr",
+        "name": "Jamaika"
+    },
+    {
+        "id": 630,
+        "country_id": 388,
+        "locale": "id",
+        "name": "Jamaika"
+    },
+    {
+        "id": 631,
+        "country_id": 392,
+        "locale": "ar",
+        "name": "اليابان"
+    },
+    {
+        "id": 632,
+        "country_id": 392,
+        "locale": "en",
+        "name": "Japan"
+    },
+    {
+        "id": 633,
+        "country_id": 392,
+        "locale": "fr",
+        "name": "Japon"
+    },
+    {
+        "id": 634,
+        "country_id": 392,
+        "locale": "es",
+        "name": "Japón"
+    },
+    {
+        "id": 635,
+        "country_id": 392,
+        "locale": "tr",
+        "name": "Japonya"
+    },
+    {
+        "id": 636,
+        "country_id": 392,
+        "locale": "id",
+        "name": "Jepang"
+    },
+    {
+        "id": 637,
+        "country_id": 398,
+        "locale": "ar",
+        "name": "كازاخستان"
+    },
+    {
+        "id": 638,
+        "country_id": 398,
+        "locale": "en",
+        "name": "Kazakhstan"
+    },
+    {
+        "id": 639,
+        "country_id": 398,
+        "locale": "fr",
+        "name": "Kazakhstan"
+    },
+    {
+        "id": 640,
+        "country_id": 398,
+        "locale": "es",
+        "name": "Kazajistán"
+    },
+    {
+        "id": 641,
+        "country_id": 398,
+        "locale": "tr",
+        "name": "Kazakistan"
+    },
+    {
+        "id": 642,
+        "country_id": 398,
+        "locale": "id",
+        "name": "Kazakhstan"
+    },
+    {
+        "id": 643,
+        "country_id": 400,
+        "locale": "ar",
+        "name": "الأردن"
+    },
+    {
+        "id": 644,
+        "country_id": 400,
+        "locale": "en",
+        "name": "Jordan"
+    },
+    {
+        "id": 645,
+        "country_id": 400,
+        "locale": "fr",
+        "name": "Jordanie"
+    },
+    {
+        "id": 646,
+        "country_id": 400,
+        "locale": "es",
+        "name": "Jordania"
+    },
+    {
+        "id": 647,
+        "country_id": 400,
+        "locale": "tr",
+        "name": "Ürdün"
+    },
+    {
+        "id": 648,
+        "country_id": 400,
+        "locale": "id",
+        "name": "Yordania"
+    },
+    {
+        "id": 649,
+        "country_id": 404,
+        "locale": "ar",
+        "name": "كينيا"
+    },
+    {
+        "id": 650,
+        "country_id": 404,
+        "locale": "en",
+        "name": "Kenya"
+    },
+    {
+        "id": 651,
+        "country_id": 404,
+        "locale": "fr",
+        "name": "Kenya"
+    },
+    {
+        "id": 652,
+        "country_id": 404,
+        "locale": "es",
+        "name": "Kenia"
+    },
+    {
+        "id": 653,
+        "country_id": 404,
+        "locale": "tr",
+        "name": "Kenya"
+    },
+    {
+        "id": 654,
+        "country_id": 404,
+        "locale": "id",
+        "name": "Kenya"
+    },
+    {
+        "id": 655,
+        "country_id": 408,
+        "locale": "ar",
+        "name": "كوريا الشمالية"
+    },
+    {
+        "id": 656,
+        "country_id": 408,
+        "locale": "en",
+        "name": "North Korea"
+    },
+    {
+        "id": 657,
+        "country_id": 408,
+        "locale": "fr",
+        "name": "Corée du Nord"
+    },
+    {
+        "id": 658,
+        "country_id": 408,
+        "locale": "es",
+        "name": "Corea del Norte"
+    },
+    {
+        "id": 659,
+        "country_id": 408,
+        "locale": "tr",
+        "name": "Kuzey Kore"
+    },
+    {
+        "id": 660,
+        "country_id": 408,
+        "locale": "id",
+        "name": "Korea Utara"
+    },
+    {
+        "id": 661,
+        "country_id": 410,
+        "locale": "ar",
+        "name": "كوريا الجنوبية"
+    },
+    {
+        "id": 662,
+        "country_id": 410,
+        "locale": "en",
+        "name": "South Korea"
+    },
+    {
+        "id": 663,
+        "country_id": 410,
+        "locale": "fr",
+        "name": "Corée du Sud"
+    },
+    {
+        "id": 664,
+        "country_id": 410,
+        "locale": "es",
+        "name": "Corea del Sur"
+    },
+    {
+        "id": 665,
+        "country_id": 410,
+        "locale": "tr",
+        "name": "Güney Kore"
+    },
+    {
+        "id": 666,
+        "country_id": 410,
+        "locale": "id",
+        "name": "Korea Selatan"
+    },
+    {
+        "id": 667,
+        "country_id": 414,
+        "locale": "ar",
+        "name": "الكويت"
+    },
+    {
+        "id": 668,
+        "country_id": 414,
+        "locale": "en",
+        "name": "Kuwait"
+    },
+    {
+        "id": 669,
+        "country_id": 414,
+        "locale": "fr",
+        "name": "Koweït"
+    },
+    {
+        "id": 670,
+        "country_id": 414,
+        "locale": "es",
+        "name": "Kuwait"
+    },
+    {
+        "id": 671,
+        "country_id": 414,
+        "locale": "tr",
+        "name": "Kuveyt"
+    },
+    {
+        "id": 672,
+        "country_id": 414,
+        "locale": "id",
+        "name": "Kuwait"
+    },
+    {
+        "id": 673,
+        "country_id": 417,
+        "locale": "ar",
+        "name": "قيرغيزستان"
+    },
+    {
+        "id": 674,
+        "country_id": 417,
+        "locale": "en",
+        "name": "Kyrgyzstan"
+    },
+    {
+        "id": 675,
+        "country_id": 417,
+        "locale": "fr",
+        "name": "Kirghizistan"
+    },
+    {
+        "id": 676,
+        "country_id": 417,
+        "locale": "es",
+        "name": "Kirguistán"
+    },
+    {
+        "id": 677,
+        "country_id": 417,
+        "locale": "tr",
+        "name": "Kırgızistan"
+    },
+    {
+        "id": 678,
+        "country_id": 417,
+        "locale": "id",
+        "name": "Kirgizstan"
+    },
+    {
+        "id": 679,
+        "country_id": 418,
+        "locale": "ar",
+        "name": "لاوس"
+    },
+    {
+        "id": 680,
+        "country_id": 418,
+        "locale": "en",
+        "name": "Laos"
+    },
+    {
+        "id": 681,
+        "country_id": 418,
+        "locale": "fr",
+        "name": "Laos"
+    },
+    {
+        "id": 682,
+        "country_id": 418,
+        "locale": "es",
+        "name": "Laos"
+    },
+    {
+        "id": 683,
+        "country_id": 418,
+        "locale": "tr",
+        "name": "Laos"
+    },
+    {
+        "id": 684,
+        "country_id": 418,
+        "locale": "id",
+        "name": "Laos"
+    },
+    {
+        "id": 685,
+        "country_id": 422,
+        "locale": "ar",
+        "name": "لبنان"
+    },
+    {
+        "id": 686,
+        "country_id": 422,
+        "locale": "en",
+        "name": "Lebanon"
+    },
+    {
+        "id": 687,
+        "country_id": 422,
+        "locale": "fr",
+        "name": "Liban"
+    },
+    {
+        "id": 688,
+        "country_id": 422,
+        "locale": "es",
+        "name": "Líbano"
+    },
+    {
+        "id": 689,
+        "country_id": 422,
+        "locale": "tr",
+        "name": "Lübnan"
+    },
+    {
+        "id": 690,
+        "country_id": 422,
+        "locale": "id",
+        "name": "Lebanon"
+    },
+    {
+        "id": 691,
+        "country_id": 426,
+        "locale": "ar",
+        "name": "ليسوتو"
+    },
+    {
+        "id": 692,
+        "country_id": 426,
+        "locale": "en",
+        "name": "Lesotho"
+    },
+    {
+        "id": 693,
+        "country_id": 426,
+        "locale": "fr",
+        "name": "Lesotho"
+    },
+    {
+        "id": 694,
+        "country_id": 426,
+        "locale": "es",
+        "name": "Lesoto"
+    },
+    {
+        "id": 695,
+        "country_id": 426,
+        "locale": "tr",
+        "name": "Lesotho"
+    },
+    {
+        "id": 696,
+        "country_id": 426,
+        "locale": "id",
+        "name": "Lesotho"
+    },
+    {
+        "id": 697,
+        "country_id": 428,
+        "locale": "ar",
+        "name": "لاتفيا"
+    },
+    {
+        "id": 698,
+        "country_id": 428,
+        "locale": "en",
+        "name": "Latvia"
+    },
+    {
+        "id": 699,
+        "country_id": 428,
+        "locale": "fr",
+        "name": "Lettonie"
+    },
+    {
+        "id": 700,
+        "country_id": 428,
+        "locale": "es",
+        "name": "Letonia"
+    },
+    {
+        "id": 701,
+        "country_id": 428,
+        "locale": "tr",
+        "name": "Letonya"
+    },
+    {
+        "id": 702,
+        "country_id": 428,
+        "locale": "id",
+        "name": "Latvia"
+    },
+    {
+        "id": 703,
+        "country_id": 430,
+        "locale": "ar",
+        "name": "ليبيريا"
+    },
+    {
+        "id": 704,
+        "country_id": 430,
+        "locale": "en",
+        "name": "Liberia"
+    },
+    {
+        "id": 705,
+        "country_id": 430,
+        "locale": "fr",
+        "name": "Liberia"
+    },
+    {
+        "id": 706,
+        "country_id": 430,
+        "locale": "es",
+        "name": "Liberia"
+    },
+    {
+        "id": 707,
+        "country_id": 430,
+        "locale": "tr",
+        "name": "Liberya"
+    },
+    {
+        "id": 708,
+        "country_id": 430,
+        "locale": "id",
+        "name": "Liberia"
+    },
+    {
+        "id": 709,
+        "country_id": 434,
+        "locale": "ar",
+        "name": "ليبيا"
+    },
+    {
+        "id": 710,
+        "country_id": 434,
+        "locale": "en",
+        "name": "Libya"
+    },
+    {
+        "id": 711,
+        "country_id": 434,
+        "locale": "fr",
+        "name": "Libye"
+    },
+    {
+        "id": 712,
+        "country_id": 434,
+        "locale": "es",
+        "name": "Libia"
+    },
+    {
+        "id": 713,
+        "country_id": 434,
+        "locale": "tr",
+        "name": "Libya"
+    },
+    {
+        "id": 714,
+        "country_id": 434,
+        "locale": "id",
+        "name": "Libya"
+    },
+    {
+        "id": 715,
+        "country_id": 438,
+        "locale": "ar",
+        "name": "ليختنشتاين"
+    },
+    {
+        "id": 716,
+        "country_id": 438,
+        "locale": "en",
+        "name": "Liechtenstein"
+    },
+    {
+        "id": 717,
+        "country_id": 438,
+        "locale": "fr",
+        "name": "Liechtenstein"
+    },
+    {
+        "id": 718,
+        "country_id": 438,
+        "locale": "es",
+        "name": "Liechtenstein"
+    },
+    {
+        "id": 719,
+        "country_id": 438,
+        "locale": "tr",
+        "name": "Lihtenştayn"
+    },
+    {
+        "id": 720,
+        "country_id": 438,
+        "locale": "id",
+        "name": "Liechtenstein"
+    },
+    {
+        "id": 721,
+        "country_id": 440,
+        "locale": "ar",
+        "name": "ليتوانيا"
+    },
+    {
+        "id": 722,
+        "country_id": 440,
+        "locale": "en",
+        "name": "Lithuania"
+    },
+    {
+        "id": 723,
+        "country_id": 440,
+        "locale": "fr",
+        "name": "Lituanie"
+    },
+    {
+        "id": 724,
+        "country_id": 440,
+        "locale": "es",
+        "name": "Lituania"
+    },
+    {
+        "id": 725,
+        "country_id": 440,
+        "locale": "tr",
+        "name": "Litvanya"
+    },
+    {
+        "id": 726,
+        "country_id": 440,
+        "locale": "id",
+        "name": "Lituania"
+    },
+    {
+        "id": 727,
+        "country_id": 442,
+        "locale": "ar",
+        "name": "لوكسمبورغ"
+    },
+    {
+        "id": 728,
+        "country_id": 442,
+        "locale": "en",
+        "name": "Luxembourg"
+    },
+    {
+        "id": 729,
+        "country_id": 442,
+        "locale": "fr",
+        "name": "Luxembourg"
+    },
+    {
+        "id": 730,
+        "country_id": 442,
+        "locale": "es",
+        "name": "Luxemburgo"
+    },
+    {
+        "id": 731,
+        "country_id": 442,
+        "locale": "tr",
+        "name": "Lüksemburg"
+    },
+    {
+        "id": 732,
+        "country_id": 442,
+        "locale": "id",
+        "name": "Luksemburg"
+    },
+    {
+        "id": 733,
+        "country_id": 446,
+        "locale": "ar",
+        "name": "ماكاو"
+    },
+    {
+        "id": 734,
+        "country_id": 446,
+        "locale": "en",
+        "name": "Macau"
+    },
+    {
+        "id": 735,
+        "country_id": 446,
+        "locale": "fr",
+        "name": "Macao"
+    },
+    {
+        "id": 736,
+        "country_id": 446,
+        "locale": "es",
+        "name": "Macao"
+    },
+    {
+        "id": 737,
+        "country_id": 446,
+        "locale": "tr",
+        "name": "Makao"
+    },
+    {
+        "id": 738,
+        "country_id": 446,
+        "locale": "id",
+        "name": "Makau"
+    },
+    {
+        "id": 739,
+        "country_id": 450,
+        "locale": "ar",
+        "name": "مدغشقر"
+    },
+    {
+        "id": 740,
+        "country_id": 450,
+        "locale": "en",
+        "name": "Madagascar"
+    },
+    {
+        "id": 741,
+        "country_id": 450,
+        "locale": "fr",
+        "name": "Madagascar"
+    },
+    {
+        "id": 742,
+        "country_id": 450,
+        "locale": "es",
+        "name": "Madagascar"
+    },
+    {
+        "id": 743,
+        "country_id": 450,
+        "locale": "tr",
+        "name": "Madagaskar"
+    },
+    {
+        "id": 744,
+        "country_id": 450,
+        "locale": "id",
+        "name": "Madagaskar"
+    },
+    {
+        "id": 745,
+        "country_id": 454,
+        "locale": "ar",
+        "name": "مالاوي"
+    },
+    {
+        "id": 746,
+        "country_id": 454,
+        "locale": "en",
+        "name": "Malawi"
+    },
+    {
+        "id": 747,
+        "country_id": 454,
+        "locale": "fr",
+        "name": "Malawi"
+    },
+    {
+        "id": 748,
+        "country_id": 454,
+        "locale": "es",
+        "name": "Malaui"
+    },
+    {
+        "id": 749,
+        "country_id": 454,
+        "locale": "tr",
+        "name": "Malavi"
+    },
+    {
+        "id": 750,
+        "country_id": 454,
+        "locale": "id",
+        "name": "Malawi"
+    },
+    {
+        "id": 751,
+        "country_id": 458,
+        "locale": "ar",
+        "name": "ماليزيا"
+    },
+    {
+        "id": 752,
+        "country_id": 458,
+        "locale": "en",
+        "name": "Malaysia"
+    },
+    {
+        "id": 753,
+        "country_id": 458,
+        "locale": "fr",
+        "name": "Malaisie"
+    },
+    {
+        "id": 754,
+        "country_id": 458,
+        "locale": "es",
+        "name": "Malasia"
+    },
+    {
+        "id": 755,
+        "country_id": 458,
+        "locale": "tr",
+        "name": "Malezya"
+    },
+    {
+        "id": 756,
+        "country_id": 458,
+        "locale": "id",
+        "name": "Malaysia"
+    },
+    {
+        "id": 757,
+        "country_id": 462,
+        "locale": "ar",
+        "name": "المالديف"
+    },
+    {
+        "id": 758,
+        "country_id": 462,
+        "locale": "en",
+        "name": "Maldives"
+    },
+    {
+        "id": 759,
+        "country_id": 462,
+        "locale": "fr",
+        "name": "Maldives"
+    },
+    {
+        "id": 760,
+        "country_id": 462,
+        "locale": "es",
+        "name": "Maldivas"
+    },
+    {
+        "id": 761,
+        "country_id": 462,
+        "locale": "tr",
+        "name": "Maldivler"
+    },
+    {
+        "id": 762,
+        "country_id": 462,
+        "locale": "id",
+        "name": "Maladewa"
+    },
+    {
+        "id": 763,
+        "country_id": 466,
+        "locale": "ar",
+        "name": "مالي"
+    },
+    {
+        "id": 764,
+        "country_id": 466,
+        "locale": "en",
+        "name": "Mali"
+    },
+    {
+        "id": 765,
+        "country_id": 466,
+        "locale": "fr",
+        "name": "Mali"
+    },
+    {
+        "id": 766,
+        "country_id": 466,
+        "locale": "es",
+        "name": "Malí"
+    },
+    {
+        "id": 767,
+        "country_id": 466,
+        "locale": "tr",
+        "name": "Mali"
+    },
+    {
+        "id": 768,
+        "country_id": 466,
+        "locale": "id",
+        "name": "Mali"
+    },
+    {
+        "id": 769,
+        "country_id": 470,
+        "locale": "ar",
+        "name": "مالطا"
+    },
+    {
+        "id": 770,
+        "country_id": 470,
+        "locale": "en",
+        "name": "Malta"
+    },
+    {
+        "id": 771,
+        "country_id": 470,
+        "locale": "fr",
+        "name": "Malte"
+    },
+    {
+        "id": 772,
+        "country_id": 470,
+        "locale": "es",
+        "name": "Malta"
+    },
+    {
+        "id": 773,
+        "country_id": 470,
+        "locale": "tr",
+        "name": "Malta"
+    },
+    {
+        "id": 774,
+        "country_id": 470,
+        "locale": "id",
+        "name": "Malta"
+    },
+    {
+        "id": 775,
+        "country_id": 478,
+        "locale": "ar",
+        "name": "موريتانيا"
+    },
+    {
+        "id": 776,
+        "country_id": 478,
+        "locale": "en",
+        "name": "Mauritania"
+    },
+    {
+        "id": 777,
+        "country_id": 478,
+        "locale": "fr",
+        "name": "Mauritanie"
+    },
+    {
+        "id": 778,
+        "country_id": 478,
+        "locale": "es",
+        "name": "Mauritania"
+    },
+    {
+        "id": 779,
+        "country_id": 478,
+        "locale": "tr",
+        "name": "Moritanya"
+    },
+    {
+        "id": 780,
+        "country_id": 478,
+        "locale": "id",
+        "name": "Mauritania"
+    },
+    {
+        "id": 781,
+        "country_id": 480,
+        "locale": "ar",
+        "name": "موريشيوس"
+    },
+    {
+        "id": 782,
+        "country_id": 480,
+        "locale": "en",
+        "name": "Mauritius"
+    },
+    {
+        "id": 783,
+        "country_id": 480,
+        "locale": "fr",
+        "name": "Maurice"
+    },
+    {
+        "id": 784,
+        "country_id": 480,
+        "locale": "es",
+        "name": "Mauricio"
+    },
+    {
+        "id": 785,
+        "country_id": 480,
+        "locale": "tr",
+        "name": "Mauritius"
+    },
+    {
+        "id": 786,
+        "country_id": 480,
+        "locale": "id",
+        "name": "Mauritius"
+    },
+    {
+        "id": 787,
+        "country_id": 484,
+        "locale": "ar",
+        "name": "المكسيك"
+    },
+    {
+        "id": 788,
+        "country_id": 484,
+        "locale": "en",
+        "name": "Mexico"
+    },
+    {
+        "id": 789,
+        "country_id": 484,
+        "locale": "fr",
+        "name": "Mexique"
+    },
+    {
+        "id": 790,
+        "country_id": 484,
+        "locale": "es",
+        "name": "México"
+    },
+    {
+        "id": 791,
+        "country_id": 484,
+        "locale": "tr",
+        "name": "Meksika"
+    },
+    {
+        "id": 792,
+        "country_id": 484,
+        "locale": "id",
+        "name": "Meksiko"
+    },
+    {
+        "id": 793,
+        "country_id": 492,
+        "locale": "ar",
+        "name": "موناكو"
+    },
+    {
+        "id": 794,
+        "country_id": 492,
+        "locale": "en",
+        "name": "Monaco"
+    },
+    {
+        "id": 795,
+        "country_id": 492,
+        "locale": "fr",
+        "name": "Monaco"
+    },
+    {
+        "id": 796,
+        "country_id": 492,
+        "locale": "es",
+        "name": "Mónaco"
+    },
+    {
+        "id": 797,
+        "country_id": 492,
+        "locale": "tr",
+        "name": "Monako"
+    },
+    {
+        "id": 798,
+        "country_id": 492,
+        "locale": "id",
+        "name": "Monako"
+    },
+    {
+        "id": 799,
+        "country_id": 496,
+        "locale": "ar",
+        "name": "منغوليا"
+    },
+    {
+        "id": 800,
+        "country_id": 496,
+        "locale": "en",
+        "name": "Mongolia"
+    },
+    {
+        "id": 801,
+        "country_id": 496,
+        "locale": "fr",
+        "name": "Mongolie"
+    },
+    {
+        "id": 802,
+        "country_id": 496,
+        "locale": "es",
+        "name": "Mongolia"
+    },
+    {
+        "id": 803,
+        "country_id": 496,
+        "locale": "tr",
+        "name": "Moğolistan"
+    },
+    {
+        "id": 804,
+        "country_id": 496,
+        "locale": "id",
+        "name": "Mongolia"
+    },
+    {
+        "id": 805,
+        "country_id": 498,
+        "locale": "ar",
+        "name": "مولدوفا"
+    },
+    {
+        "id": 806,
+        "country_id": 498,
+        "locale": "en",
+        "name": "Moldova"
+    },
+    {
+        "id": 807,
+        "country_id": 498,
+        "locale": "fr",
+        "name": "Moldavie"
+    },
+    {
+        "id": 808,
+        "country_id": 498,
+        "locale": "es",
+        "name": "Moldavia"
+    },
+    {
+        "id": 809,
+        "country_id": 498,
+        "locale": "tr",
+        "name": "Moldova"
+    },
+    {
+        "id": 810,
+        "country_id": 498,
+        "locale": "id",
+        "name": "Moldova"
+    },
+    {
+        "id": 811,
+        "country_id": 499,
+        "locale": "ar",
+        "name": "الجبل الأسود"
+    },
+    {
+        "id": 812,
+        "country_id": 499,
+        "locale": "en",
+        "name": "Montenegro"
+    },
+    {
+        "id": 813,
+        "country_id": 499,
+        "locale": "fr",
+        "name": "Monténégro"
+    },
+    {
+        "id": 814,
+        "country_id": 499,
+        "locale": "es",
+        "name": "Montenegro"
+    },
+    {
+        "id": 815,
+        "country_id": 499,
+        "locale": "tr",
+        "name": "Karadağ"
+    },
+    {
+        "id": 816,
+        "country_id": 499,
+        "locale": "id",
+        "name": "Montenegro"
+    },
+    {
+        "id": 817,
+        "country_id": 500,
+        "locale": "ar",
+        "name": "مونتسرات"
+    },
+    {
+        "id": 818,
+        "country_id": 500,
+        "locale": "en",
+        "name": "Montserrat"
+    },
+    {
+        "id": 819,
+        "country_id": 500,
+        "locale": "fr",
+        "name": "Montserrat"
+    },
+    {
+        "id": 820,
+        "country_id": 500,
+        "locale": "es",
+        "name": "Montserrat"
+    },
+    {
+        "id": 821,
+        "country_id": 500,
+        "locale": "tr",
+        "name": "Montserrat"
+    },
+    {
+        "id": 822,
+        "country_id": 500,
+        "locale": "id",
+        "name": "Montserrat"
+    },
+    {
+        "id": 823,
+        "country_id": 504,
+        "locale": "ar",
+        "name": "المغرب"
+    },
+    {
+        "id": 824,
+        "country_id": 504,
+        "locale": "en",
+        "name": "Morocco"
+    },
+    {
+        "id": 825,
+        "country_id": 504,
+        "locale": "fr",
+        "name": "Maroc"
+    },
+    {
+        "id": 826,
+        "country_id": 504,
+        "locale": "es",
+        "name": "Marruecos"
+    },
+    {
+        "id": 827,
+        "country_id": 504,
+        "locale": "tr",
+        "name": "Fas"
+    },
+    {
+        "id": 828,
+        "country_id": 504,
+        "locale": "id",
+        "name": "Maroko"
+    },
+    {
+        "id": 829,
+        "country_id": 508,
+        "locale": "ar",
+        "name": "موزمبيق"
+    },
+    {
+        "id": 830,
+        "country_id": 508,
+        "locale": "en",
+        "name": "Mozambique"
+    },
+    {
+        "id": 831,
+        "country_id": 508,
+        "locale": "fr",
+        "name": "Mozambique"
+    },
+    {
+        "id": 832,
+        "country_id": 508,
+        "locale": "es",
+        "name": "Mozambique"
+    },
+    {
+        "id": 833,
+        "country_id": 508,
+        "locale": "tr",
+        "name": "Mozambik"
+    },
+    {
+        "id": 834,
+        "country_id": 508,
+        "locale": "id",
+        "name": "Mozambik"
+    },
+    {
+        "id": 835,
+        "country_id": 512,
+        "locale": "ar",
+        "name": "سلطنة عمان"
+    },
+    {
+        "id": 836,
+        "country_id": 512,
+        "locale": "en",
+        "name": "Oman"
+    },
+    {
+        "id": 837,
+        "country_id": 512,
+        "locale": "fr",
+        "name": "Oman"
+    },
+    {
+        "id": 838,
+        "country_id": 512,
+        "locale": "es",
+        "name": "Omán"
+    },
+    {
+        "id": 839,
+        "country_id": 512,
+        "locale": "tr",
+        "name": "Umman"
+    },
+    {
+        "id": 840,
+        "country_id": 512,
+        "locale": "id",
+        "name": "Oman"
+    },
+    {
+        "id": 841,
+        "country_id": 516,
+        "locale": "ar",
+        "name": "ناميبيا"
+    },
+    {
+        "id": 842,
+        "country_id": 516,
+        "locale": "en",
+        "name": "Namibia"
+    },
+    {
+        "id": 843,
+        "country_id": 516,
+        "locale": "fr",
+        "name": "Namibie"
+    },
+    {
+        "id": 844,
+        "country_id": 516,
+        "locale": "es",
+        "name": "Namibia"
+    },
+    {
+        "id": 845,
+        "country_id": 516,
+        "locale": "tr",
+        "name": "Namibya"
+    },
+    {
+        "id": 846,
+        "country_id": 516,
+        "locale": "id",
+        "name": "Namibia"
+    },
+    {
+        "id": 847,
+        "country_id": 520,
+        "locale": "ar",
+        "name": "ناورو"
+    },
+    {
+        "id": 848,
+        "country_id": 520,
+        "locale": "en",
+        "name": "Nauru"
+    },
+    {
+        "id": 849,
+        "country_id": 520,
+        "locale": "fr",
+        "name": "Nauru"
+    },
+    {
+        "id": 850,
+        "country_id": 520,
+        "locale": "es",
+        "name": "Nauru"
+    },
+    {
+        "id": 851,
+        "country_id": 520,
+        "locale": "tr",
+        "name": "Nauru"
+    },
+    {
+        "id": 852,
+        "country_id": 520,
+        "locale": "id",
+        "name": "Nauru"
+    },
+    {
+        "id": 853,
+        "country_id": 524,
+        "locale": "ar",
+        "name": "نيبال"
+    },
+    {
+        "id": 854,
+        "country_id": 524,
+        "locale": "en",
+        "name": "Nepal"
+    },
+    {
+        "id": 855,
+        "country_id": 524,
+        "locale": "fr",
+        "name": "Népal"
+    },
+    {
+        "id": 856,
+        "country_id": 524,
+        "locale": "es",
+        "name": "Nepal"
+    },
+    {
+        "id": 857,
+        "country_id": 524,
+        "locale": "tr",
+        "name": "Nepal"
+    },
+    {
+        "id": 858,
+        "country_id": 524,
+        "locale": "id",
+        "name": "Nepal"
+    },
+    {
+        "id": 859,
+        "country_id": 528,
+        "locale": "ar",
+        "name": "هولندا"
+    },
+    {
+        "id": 860,
+        "country_id": 528,
+        "locale": "en",
+        "name": "Netherlands"
+    },
+    {
+        "id": 861,
+        "country_id": 528,
+        "locale": "fr",
+        "name": "Pays-Bas"
+    },
+    {
+        "id": 862,
+        "country_id": 528,
+        "locale": "es",
+        "name": "Países Bajos"
+    },
+    {
+        "id": 863,
+        "country_id": 528,
+        "locale": "tr",
+        "name": "Hollanda"
+    },
+    {
+        "id": 864,
+        "country_id": 528,
+        "locale": "id",
+        "name": "Belanda"
+    },
+    {
+        "id": 865,
+        "country_id": 531,
+        "locale": "ar",
+        "name": "كوراساو"
+    },
+    {
+        "id": 866,
+        "country_id": 531,
+        "locale": "en",
+        "name": "Curaçao"
+    },
+    {
+        "id": 867,
+        "country_id": 531,
+        "locale": "fr",
+        "name": "Curaçao"
+    },
+    {
+        "id": 868,
+        "country_id": 531,
+        "locale": "es",
+        "name": "Curazao"
+    },
+    {
+        "id": 869,
+        "country_id": 531,
+        "locale": "tr",
+        "name": "Curaçao"
+    },
+    {
+        "id": 870,
+        "country_id": 531,
+        "locale": "id",
+        "name": "Curaçao"
+    },
+    {
+        "id": 871,
+        "country_id": 533,
+        "locale": "ar",
+        "name": "أروبا"
+    },
+    {
+        "id": 872,
+        "country_id": 533,
+        "locale": "en",
+        "name": "Aruba"
+    },
+    {
+        "id": 873,
+        "country_id": 533,
+        "locale": "fr",
+        "name": "Aruba"
+    },
+    {
+        "id": 874,
+        "country_id": 533,
+        "locale": "es",
+        "name": "Aruba"
+    },
+    {
+        "id": 875,
+        "country_id": 533,
+        "locale": "tr",
+        "name": "Aruba"
+    },
+    {
+        "id": 876,
+        "country_id": 533,
+        "locale": "id",
+        "name": "Aruba"
+    },
+    {
+        "id": 877,
+        "country_id": 534,
+        "locale": "ar",
+        "name": "سينت مارتن"
+    },
+    {
+        "id": 878,
+        "country_id": 534,
+        "locale": "en",
+        "name": "Sint Maarten"
+    },
+    {
+        "id": 879,
+        "country_id": 534,
+        "locale": "fr",
+        "name": "Saint-Martin"
+    },
+    {
+        "id": 880,
+        "country_id": 534,
+        "locale": "es",
+        "name": "San Martín"
+    },
+    {
+        "id": 881,
+        "country_id": 534,
+        "locale": "tr",
+        "name": "Sint Maarten"
+    },
+    {
+        "id": 882,
+        "country_id": 534,
+        "locale": "id",
+        "name": "Sint Maarten"
+    },
+    {
+        "id": 883,
+        "country_id": 540,
+        "locale": "ar",
+        "name": "كاليدونيا الجديدة"
+    },
+    {
+        "id": 884,
+        "country_id": 540,
+        "locale": "en",
+        "name": "New Caledonia"
+    },
+    {
+        "id": 885,
+        "country_id": 540,
+        "locale": "fr",
+        "name": "Nouvelle-Calédonie"
+    },
+    {
+        "id": 886,
+        "country_id": 540,
+        "locale": "es",
+        "name": "Nueva Caledonia"
+    },
+    {
+        "id": 887,
+        "country_id": 540,
+        "locale": "tr",
+        "name": "Yeni Kaledonya"
+    },
+    {
+        "id": 888,
+        "country_id": 540,
+        "locale": "id",
+        "name": "Kaledonia Baru"
+    },
+    {
+        "id": 889,
+        "country_id": 548,
+        "locale": "ar",
+        "name": "فانواتو"
+    },
+    {
+        "id": 890,
+        "country_id": 548,
+        "locale": "en",
+        "name": "Vanuatu"
+    },
+    {
+        "id": 891,
+        "country_id": 548,
+        "locale": "fr",
+        "name": "Vanuatu"
+    },
+    {
+        "id": 892,
+        "country_id": 548,
+        "locale": "es",
+        "name": "Vanuatu"
+    },
+    {
+        "id": 893,
+        "country_id": 548,
+        "locale": "tr",
+        "name": "Vanuatu"
+    },
+    {
+        "id": 894,
+        "country_id": 548,
+        "locale": "id",
+        "name": "Vanuatu"
+    },
+    {
+        "id": 895,
+        "country_id": 554,
+        "locale": "ar",
+        "name": "نيوزيلندا"
+    },
+    {
+        "id": 896,
+        "country_id": 554,
+        "locale": "en",
+        "name": "New Zealand"
+    },
+    {
+        "id": 897,
+        "country_id": 554,
+        "locale": "fr",
+        "name": "Nouvelle-Zélande"
+    },
+    {
+        "id": 898,
+        "country_id": 554,
+        "locale": "es",
+        "name": "Nueva Zelanda"
+    },
+    {
+        "id": 899,
+        "country_id": 554,
+        "locale": "tr",
+        "name": "Yeni Zelanda"
+    },
+    {
+        "id": 900,
+        "country_id": 554,
+        "locale": "id",
+        "name": "Selandia Baru"
+    },
+    {
+        "id": 901,
+        "country_id": 558,
+        "locale": "ar",
+        "name": "نيكاراغوا"
+    },
+    {
+        "id": 902,
+        "country_id": 558,
+        "locale": "en",
+        "name": "Nicaragua"
+    },
+    {
+        "id": 903,
+        "country_id": 558,
+        "locale": "fr",
+        "name": "Nicaragua"
+    },
+    {
+        "id": 904,
+        "country_id": 558,
+        "locale": "es",
+        "name": "Nicaragua"
+    },
+    {
+        "id": 905,
+        "country_id": 558,
+        "locale": "tr",
+        "name": "Nikaragua"
+    },
+    {
+        "id": 906,
+        "country_id": 558,
+        "locale": "id",
+        "name": "Nikaragua"
+    },
+    {
+        "id": 907,
+        "country_id": 562,
+        "locale": "ar",
+        "name": "النيجر"
+    },
+    {
+        "id": 908,
+        "country_id": 562,
+        "locale": "en",
+        "name": "Niger"
+    },
+    {
+        "id": 909,
+        "country_id": 562,
+        "locale": "fr",
+        "name": "Niger"
+    },
+    {
+        "id": 910,
+        "country_id": 562,
+        "locale": "es",
+        "name": "Níger"
+    },
+    {
+        "id": 911,
+        "country_id": 562,
+        "locale": "tr",
+        "name": "Nijer"
+    },
+    {
+        "id": 912,
+        "country_id": 562,
+        "locale": "id",
+        "name": "Niger"
+    },
+    {
+        "id": 913,
+        "country_id": 566,
+        "locale": "ar",
+        "name": "نيجيريا"
+    },
+    {
+        "id": 914,
+        "country_id": 566,
+        "locale": "en",
+        "name": "Nigeria"
+    },
+    {
+        "id": 915,
+        "country_id": 566,
+        "locale": "fr",
+        "name": "Nigeria"
+    },
+    {
+        "id": 916,
+        "country_id": 566,
+        "locale": "es",
+        "name": "Nigeria"
+    },
+    {
+        "id": 917,
+        "country_id": 566,
+        "locale": "tr",
+        "name": "Nijerya"
+    },
+    {
+        "id": 918,
+        "country_id": 566,
+        "locale": "id",
+        "name": "Nigeria"
+    },
+    {
+        "id": 919,
+        "country_id": 570,
+        "locale": "ar",
+        "name": "نييوي"
+    },
+    {
+        "id": 920,
+        "country_id": 570,
+        "locale": "en",
+        "name": "Niue"
+    },
+    {
+        "id": 921,
+        "country_id": 570,
+        "locale": "fr",
+        "name": "Niue"
+    },
+    {
+        "id": 922,
+        "country_id": 570,
+        "locale": "es",
+        "name": "Niue"
+    },
+    {
+        "id": 923,
+        "country_id": 570,
+        "locale": "tr",
+        "name": "Niue"
+    },
+    {
+        "id": 924,
+        "country_id": 570,
+        "locale": "id",
+        "name": "Niue"
+    },
+    {
+        "id": 925,
+        "country_id": 574,
+        "locale": "ar",
+        "name": "جزيرة نورفولك"
+    },
+    {
+        "id": 926,
+        "country_id": 574,
+        "locale": "en",
+        "name": "Norfolk Island"
+    },
+    {
+        "id": 927,
+        "country_id": 574,
+        "locale": "fr",
+        "name": "Île Norfolk"
+    },
+    {
+        "id": 928,
+        "country_id": 574,
+        "locale": "es",
+        "name": "Isla Norfolk"
+    },
+    {
+        "id": 929,
+        "country_id": 574,
+        "locale": "tr",
+        "name": "Norfolk Adası"
+    },
+    {
+        "id": 930,
+        "country_id": 574,
+        "locale": "id",
+        "name": "Pulau Norfolk"
+    },
+    {
+        "id": 931,
+        "country_id": 578,
+        "locale": "ar",
+        "name": "النرويج"
+    },
+    {
+        "id": 932,
+        "country_id": 578,
+        "locale": "en",
+        "name": "Norway"
+    },
+    {
+        "id": 933,
+        "country_id": 578,
+        "locale": "fr",
+        "name": "Norvège"
+    },
+    {
+        "id": 934,
+        "country_id": 578,
+        "locale": "es",
+        "name": "Noruega"
+    },
+    {
+        "id": 935,
+        "country_id": 578,
+        "locale": "tr",
+        "name": "Norveç"
+    },
+    {
+        "id": 936,
+        "country_id": 578,
+        "locale": "id",
+        "name": "Norwegia"
+    },
+    {
+        "id": 937,
+        "country_id": 580,
+        "locale": "ar",
+        "name": "جزر ماريانا الشمالية"
+    },
+    {
+        "id": 938,
+        "country_id": 580,
+        "locale": "en",
+        "name": "Northern Mariana Islands"
+    },
+    {
+        "id": 939,
+        "country_id": 580,
+        "locale": "fr",
+        "name": "îles Mariannes du Nord"
+    },
+    {
+        "id": 940,
+        "country_id": 580,
+        "locale": "es",
+        "name": "Islas Marianas del Norte"
+    },
+    {
+        "id": 941,
+        "country_id": 580,
+        "locale": "tr",
+        "name": "Kuzey Mariana Adaları"
+    },
+    {
+        "id": 942,
+        "country_id": 580,
+        "locale": "id",
+        "name": "Kepulauan Mariana Utara"
+    },
+    {
+        "id": 943,
+        "country_id": 581,
+        "locale": "ar",
+        "name": "جزر الولايات المتحدة الصغيرة النائية"
+    },
+    {
+        "id": 944,
+        "country_id": 581,
+        "locale": "en",
+        "name": "United States Minor Outlying Islands"
+    },
+    {
+        "id": 945,
+        "country_id": 581,
+        "locale": "fr",
+        "name": "Îles mineures éloignées des États-Unis"
+    },
+    {
+        "id": 946,
+        "country_id": 581,
+        "locale": "es",
+        "name": "Islas ultramarinas de Estados Unidos"
+    },
+    {
+        "id": 947,
+        "country_id": 581,
+        "locale": "tr",
+        "name": "United States Minor Outlying Islands"
+    },
+    {
+        "id": 948,
+        "country_id": 581,
+        "locale": "id",
+        "name": "Kepulauan Terluar Kecil Amerika Serikat"
+    },
+    {
+        "id": 949,
+        "country_id": 583,
+        "locale": "ar",
+        "name": "ولايات ميكرونيسيا المتحدة"
+    },
+    {
+        "id": 950,
+        "country_id": 583,
+        "locale": "en",
+        "name": "Federated States of Micronesia"
+    },
+    {
+        "id": 951,
+        "country_id": 583,
+        "locale": "fr",
+        "name": "États fédérés de Micronésie"
+    },
+    {
+        "id": 952,
+        "country_id": 583,
+        "locale": "es",
+        "name": "Estados Federados de Micronesia"
+    },
+    {
+        "id": 953,
+        "country_id": 583,
+        "locale": "tr",
+        "name": "Mikronezya"
+    },
+    {
+        "id": 954,
+        "country_id": 583,
+        "locale": "id",
+        "name": "Mikronesia"
+    },
+    {
+        "id": 955,
+        "country_id": 584,
+        "locale": "ar",
+        "name": "جزر مارشال"
+    },
+    {
+        "id": 956,
+        "country_id": 584,
+        "locale": "en",
+        "name": "Marshall Islands"
+    },
+    {
+        "id": 957,
+        "country_id": 584,
+        "locale": "fr",
+        "name": "Îles Marshall"
+    },
+    {
+        "id": 958,
+        "country_id": 584,
+        "locale": "es",
+        "name": "Islas Marshall"
+    },
+    {
+        "id": 959,
+        "country_id": 584,
+        "locale": "tr",
+        "name": "Marshall Adaları"
+    },
+    {
+        "id": 960,
+        "country_id": 584,
+        "locale": "id",
+        "name": "Kepulauan Marshall"
+    },
+    {
+        "id": 961,
+        "country_id": 585,
+        "locale": "ar",
+        "name": "بالاو"
+    },
+    {
+        "id": 962,
+        "country_id": 585,
+        "locale": "en",
+        "name": "Palau"
+    },
+    {
+        "id": 963,
+        "country_id": 585,
+        "locale": "fr",
+        "name": "Palaos"
+    },
+    {
+        "id": 964,
+        "country_id": 585,
+        "locale": "es",
+        "name": "Palaos"
+    },
+    {
+        "id": 965,
+        "country_id": 585,
+        "locale": "tr",
+        "name": "Palau"
+    },
+    {
+        "id": 966,
+        "country_id": 585,
+        "locale": "id",
+        "name": "Palau"
+    },
+    {
+        "id": 967,
+        "country_id": 586,
+        "locale": "ar",
+        "name": "باكستان"
+    },
+    {
+        "id": 968,
+        "country_id": 586,
+        "locale": "en",
+        "name": "Pakistan"
+    },
+    {
+        "id": 969,
+        "country_id": 586,
+        "locale": "fr",
+        "name": "Pakistan"
+    },
+    {
+        "id": 970,
+        "country_id": 586,
+        "locale": "es",
+        "name": "Pakistán"
+    },
+    {
+        "id": 971,
+        "country_id": 586,
+        "locale": "tr",
+        "name": "Pakistan"
+    },
+    {
+        "id": 972,
+        "country_id": 586,
+        "locale": "id",
+        "name": "Pakistan"
+    },
+    {
+        "id": 973,
+        "country_id": 591,
+        "locale": "ar",
+        "name": "بنما"
+    },
+    {
+        "id": 974,
+        "country_id": 591,
+        "locale": "en",
+        "name": "Panama"
+    },
+    {
+        "id": 975,
+        "country_id": 591,
+        "locale": "fr",
+        "name": "Panama"
+    },
+    {
+        "id": 976,
+        "country_id": 591,
+        "locale": "es",
+        "name": "Panamá"
+    },
+    {
+        "id": 977,
+        "country_id": 591,
+        "locale": "tr",
+        "name": "Panama"
+    },
+    {
+        "id": 978,
+        "country_id": 591,
+        "locale": "id",
+        "name": "Panama"
+    },
+    {
+        "id": 979,
+        "country_id": 598,
+        "locale": "ar",
+        "name": "بابوا غينيا الجديدة"
+    },
+    {
+        "id": 980,
+        "country_id": 598,
+        "locale": "en",
+        "name": "Papua New Guinea"
+    },
+    {
+        "id": 981,
+        "country_id": 598,
+        "locale": "fr",
+        "name": "Papouasie-Nouvelle-Guinée"
+    },
+    {
+        "id": 982,
+        "country_id": 598,
+        "locale": "es",
+        "name": "Papúa Nueva Guinea"
+    },
+    {
+        "id": 983,
+        "country_id": 598,
+        "locale": "tr",
+        "name": "Papua Yeni Gine"
+    },
+    {
+        "id": 984,
+        "country_id": 598,
+        "locale": "id",
+        "name": "Papua Nugini"
+    },
+    {
+        "id": 985,
+        "country_id": 600,
+        "locale": "ar",
+        "name": "باراغواي"
+    },
+    {
+        "id": 986,
+        "country_id": 600,
+        "locale": "en",
+        "name": "Paraguay"
+    },
+    {
+        "id": 987,
+        "country_id": 600,
+        "locale": "fr",
+        "name": "Paraguay"
+    },
+    {
+        "id": 988,
+        "country_id": 600,
+        "locale": "es",
+        "name": "Paraguay"
+    },
+    {
+        "id": 989,
+        "country_id": 600,
+        "locale": "tr",
+        "name": "Paraguay"
+    },
+    {
+        "id": 990,
+        "country_id": 600,
+        "locale": "id",
+        "name": "Paraguay"
+    },
+    {
+        "id": 991,
+        "country_id": 604,
+        "locale": "ar",
+        "name": "بيرو"
+    },
+    {
+        "id": 992,
+        "country_id": 604,
+        "locale": "en",
+        "name": "Peru"
+    },
+    {
+        "id": 993,
+        "country_id": 604,
+        "locale": "fr",
+        "name": "Pérou"
+    },
+    {
+        "id": 994,
+        "country_id": 604,
+        "locale": "es",
+        "name": "Perú"
+    },
+    {
+        "id": 995,
+        "country_id": 604,
+        "locale": "tr",
+        "name": "Peru"
+    },
+    {
+        "id": 996,
+        "country_id": 604,
+        "locale": "id",
+        "name": "Peru"
+    },
+    {
+        "id": 997,
+        "country_id": 608,
+        "locale": "ar",
+        "name": "الفلبين"
+    },
+    {
+        "id": 998,
+        "country_id": 608,
+        "locale": "en",
+        "name": "Philippines"
+    },
+    {
+        "id": 999,
+        "country_id": 608,
+        "locale": "fr",
+        "name": "Philippines"
+    },
+    {
+        "id": 1000,
+        "country_id": 608,
+        "locale": "es",
+        "name": "Filipinas"
+    },
+    {
+        "id": 1001,
+        "country_id": 608,
+        "locale": "tr",
+        "name": "Filipinler"
+    },
+    {
+        "id": 1002,
+        "country_id": 608,
+        "locale": "id",
+        "name": "Filipina"
+    },
+    {
+        "id": 1003,
+        "country_id": 612,
+        "locale": "ar",
+        "name": "جزر بيتكيرن"
+    },
+    {
+        "id": 1004,
+        "country_id": 612,
+        "locale": "en",
+        "name": "Pitcairn Islands"
+    },
+    {
+        "id": 1005,
+        "country_id": 612,
+        "locale": "fr",
+        "name": "Iles Pitcairn"
+    },
+    {
+        "id": 1006,
+        "country_id": 612,
+        "locale": "es",
+        "name": "Islas Pitcairn"
+    },
+    {
+        "id": 1007,
+        "country_id": 612,
+        "locale": "tr",
+        "name": "Pitcairn Adaları"
+    },
+    {
+        "id": 1008,
+        "country_id": 612,
+        "locale": "id",
+        "name": "Kepulauan Pitcairn"
+    },
+    {
+        "id": 1009,
+        "country_id": 616,
+        "locale": "ar",
+        "name": "بولندا"
+    },
+    {
+        "id": 1010,
+        "country_id": 616,
+        "locale": "en",
+        "name": "Poland"
+    },
+    {
+        "id": 1011,
+        "country_id": 616,
+        "locale": "fr",
+        "name": "Pologne"
+    },
+    {
+        "id": 1012,
+        "country_id": 616,
+        "locale": "es",
+        "name": "Polonia"
+    },
+    {
+        "id": 1013,
+        "country_id": 616,
+        "locale": "tr",
+        "name": "Polonya"
+    },
+    {
+        "id": 1014,
+        "country_id": 616,
+        "locale": "id",
+        "name": "Polandia"
+    },
+    {
+        "id": 1015,
+        "country_id": 620,
+        "locale": "ar",
+        "name": "البرتغال"
+    },
+    {
+        "id": 1016,
+        "country_id": 620,
+        "locale": "en",
+        "name": "Portugal"
+    },
+    {
+        "id": 1017,
+        "country_id": 620,
+        "locale": "fr",
+        "name": "Portugal"
+    },
+    {
+        "id": 1018,
+        "country_id": 620,
+        "locale": "es",
+        "name": "Portugal"
+    },
+    {
+        "id": 1019,
+        "country_id": 620,
+        "locale": "tr",
+        "name": "Portekiz"
+    },
+    {
+        "id": 1020,
+        "country_id": 620,
+        "locale": "id",
+        "name": "Portugal"
+    },
+    {
+        "id": 1021,
+        "country_id": 624,
+        "locale": "ar",
+        "name": "غينيا بيساو"
+    },
+    {
+        "id": 1022,
+        "country_id": 624,
+        "locale": "en",
+        "name": "Guinea-Bissau"
+    },
+    {
+        "id": 1023,
+        "country_id": 624,
+        "locale": "fr",
+        "name": "Guinée-Bissau"
+    },
+    {
+        "id": 1024,
+        "country_id": 624,
+        "locale": "es",
+        "name": "Guinea-Bisáu"
+    },
+    {
+        "id": 1025,
+        "country_id": 624,
+        "locale": "tr",
+        "name": "Gine-Bissau"
+    },
+    {
+        "id": 1026,
+        "country_id": 624,
+        "locale": "id",
+        "name": "Guinea-Bissau"
+    },
+    {
+        "id": 1027,
+        "country_id": 626,
+        "locale": "ar",
+        "name": "تيمور الشرقية"
+    },
+    {
+        "id": 1028,
+        "country_id": 626,
+        "locale": "en",
+        "name": "East Timor"
+    },
+    {
+        "id": 1029,
+        "country_id": 626,
+        "locale": "fr",
+        "name": "Timor oriental"
+    },
+    {
+        "id": 1030,
+        "country_id": 626,
+        "locale": "es",
+        "name": "Timor Oriental"
+    },
+    {
+        "id": 1031,
+        "country_id": 626,
+        "locale": "tr",
+        "name": "Doğu Timor"
+    },
+    {
+        "id": 1032,
+        "country_id": 626,
+        "locale": "id",
+        "name": "Timor Leste"
+    },
+    {
+        "id": 1033,
+        "country_id": 630,
+        "locale": "ar",
+        "name": "بورتوريكو"
+    },
+    {
+        "id": 1034,
+        "country_id": 630,
+        "locale": "en",
+        "name": "Puerto Rico"
+    },
+    {
+        "id": 1035,
+        "country_id": 630,
+        "locale": "fr",
+        "name": "Porto Rico"
+    },
+    {
+        "id": 1036,
+        "country_id": 630,
+        "locale": "es",
+        "name": "Puerto Rico"
+    },
+    {
+        "id": 1037,
+        "country_id": 630,
+        "locale": "tr",
+        "name": "Porto Riko"
+    },
+    {
+        "id": 1038,
+        "country_id": 630,
+        "locale": "id",
+        "name": "Puerto Riko"
+    },
+    {
+        "id": 1039,
+        "country_id": 634,
+        "locale": "ar",
+        "name": "قطر"
+    },
+    {
+        "id": 1040,
+        "country_id": 634,
+        "locale": "en",
+        "name": "Qatar"
+    },
+    {
+        "id": 1041,
+        "country_id": 634,
+        "locale": "fr",
+        "name": "Qatar"
+    },
+    {
+        "id": 1042,
+        "country_id": 634,
+        "locale": "es",
+        "name": "Catar"
+    },
+    {
+        "id": 1043,
+        "country_id": 634,
+        "locale": "tr",
+        "name": "Katar"
+    },
+    {
+        "id": 1044,
+        "country_id": 634,
+        "locale": "id",
+        "name": "Qatar"
+    },
+    {
+        "id": 1045,
+        "country_id": 642,
+        "locale": "ar",
+        "name": "رومانيا"
+    },
+    {
+        "id": 1046,
+        "country_id": 642,
+        "locale": "en",
+        "name": "Romania"
+    },
+    {
+        "id": 1047,
+        "country_id": 642,
+        "locale": "fr",
+        "name": "Roumanie"
+    },
+    {
+        "id": 1048,
+        "country_id": 642,
+        "locale": "es",
+        "name": "Rumania"
+    },
+    {
+        "id": 1049,
+        "country_id": 642,
+        "locale": "tr",
+        "name": "Romanya"
+    },
+    {
+        "id": 1050,
+        "country_id": 642,
+        "locale": "id",
+        "name": "Rumania"
+    },
+    {
+        "id": 1051,
+        "country_id": 643,
+        "locale": "ar",
+        "name": "روسيا"
+    },
+    {
+        "id": 1052,
+        "country_id": 643,
+        "locale": "en",
+        "name": "Russia"
+    },
+    {
+        "id": 1053,
+        "country_id": 643,
+        "locale": "fr",
+        "name": "Russie"
+    },
+    {
+        "id": 1054,
+        "country_id": 643,
+        "locale": "es",
+        "name": "Rusia"
+    },
+    {
+        "id": 1055,
+        "country_id": 643,
+        "locale": "tr",
+        "name": "Rusya"
+    },
+    {
+        "id": 1056,
+        "country_id": 643,
+        "locale": "id",
+        "name": "Rusia"
+    },
+    {
+        "id": 1057,
+        "country_id": 646,
+        "locale": "ar",
+        "name": "رواندا"
+    },
+    {
+        "id": 1058,
+        "country_id": 646,
+        "locale": "en",
+        "name": "Rwanda"
+    },
+    {
+        "id": 1059,
+        "country_id": 646,
+        "locale": "fr",
+        "name": "Rwanda"
+    },
+    {
+        "id": 1060,
+        "country_id": 646,
+        "locale": "es",
+        "name": "Ruanda"
+    },
+    {
+        "id": 1061,
+        "country_id": 646,
+        "locale": "tr",
+        "name": "Ruanda"
+    },
+    {
+        "id": 1062,
+        "country_id": 646,
+        "locale": "id",
+        "name": "Rwanda"
+    },
+    {
+        "id": 1063,
+        "country_id": 652,
+        "locale": "ar",
+        "name": "سان بارتيلمي"
+    },
+    {
+        "id": 1064,
+        "country_id": 652,
+        "locale": "en",
+        "name": "Saint Barthélemy"
+    },
+    {
+        "id": 1065,
+        "country_id": 652,
+        "locale": "fr",
+        "name": "Saint-Barthélemy"
+    },
+    {
+        "id": 1066,
+        "country_id": 652,
+        "locale": "es",
+        "name": "San Bartolomé"
+    },
+    {
+        "id": 1067,
+        "country_id": 652,
+        "locale": "tr",
+        "name": "Saint Barthélemy"
+    },
+    {
+        "id": 1068,
+        "country_id": 652,
+        "locale": "id",
+        "name": "Saint-Barthélemy"
+    },
+    {
+        "id": 1069,
+        "country_id": 654,
+        "locale": "ar",
+        "name": "سانت هيلانة وأسينشين وتريستان دا كونا"
+    },
+    {
+        "id": 1070,
+        "country_id": 654,
+        "locale": "en",
+        "name": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+        "id": 1071,
+        "country_id": 654,
+        "locale": "fr",
+        "name": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    },
+    {
+        "id": 1072,
+        "country_id": 654,
+        "locale": "es",
+        "name": "Santa Elena, Ascensión y Tristán de Acuña"
+    },
+    {
+        "id": 1073,
+        "country_id": 654,
+        "locale": "tr",
+        "name": "Saint Helena, Ascension ve Tristan da Cunha"
+    },
+    {
+        "id": 1074,
+        "country_id": 654,
+        "locale": "id",
+        "name": "सेंट हेलेना, असेंशन और त्रिस्तान दा कुन्हा"
+    },
+    {
+        "id": 1075,
+        "country_id": 659,
+        "locale": "ar",
+        "name": "سانت كيتس ونيفيس"
+    },
+    {
+        "id": 1076,
+        "country_id": 659,
+        "locale": "en",
+        "name": "Saint Kitts and Nevis"
+    },
+    {
+        "id": 1077,
+        "country_id": 659,
+        "locale": "fr",
+        "name": "Saint-Christophe-et-Niévès"
+    },
+    {
+        "id": 1078,
+        "country_id": 659,
+        "locale": "es",
+        "name": "San Cristóbal y Nieves"
+    },
+    {
+        "id": 1079,
+        "country_id": 659,
+        "locale": "tr",
+        "name": "Saint Kitts ve Nevis"
+    },
+    {
+        "id": 1080,
+        "country_id": 659,
+        "locale": "id",
+        "name": "Saint Kitts dan Nevis"
+    },
+    {
+        "id": 1081,
+        "country_id": 660,
+        "locale": "ar",
+        "name": "أنغويلا"
+    },
+    {
+        "id": 1082,
+        "country_id": 660,
+        "locale": "en",
+        "name": "Anguilla"
+    },
+    {
+        "id": 1083,
+        "country_id": 660,
+        "locale": "fr",
+        "name": "Anguilla"
+    },
+    {
+        "id": 1084,
+        "country_id": 660,
+        "locale": "es",
+        "name": "Anguila"
+    },
+    {
+        "id": 1085,
+        "country_id": 660,
+        "locale": "tr",
+        "name": "Anguilla"
+    },
+    {
+        "id": 1086,
+        "country_id": 660,
+        "locale": "id",
+        "name": "Anguilla"
+    },
+    {
+        "id": 1087,
+        "country_id": 662,
+        "locale": "ar",
+        "name": "سانت لوسيا"
+    },
+    {
+        "id": 1088,
+        "country_id": 662,
+        "locale": "en",
+        "name": "Saint Lucia"
+    },
+    {
+        "id": 1089,
+        "country_id": 662,
+        "locale": "fr",
+        "name": "Sainte-Lucie"
+    },
+    {
+        "id": 1090,
+        "country_id": 662,
+        "locale": "es",
+        "name": "Santa Lucía"
+    },
+    {
+        "id": 1091,
+        "country_id": 662,
+        "locale": "tr",
+        "name": "Saint Lucia"
+    },
+    {
+        "id": 1092,
+        "country_id": 662,
+        "locale": "id",
+        "name": "Saint Lucia"
+    },
+    {
+        "id": 1093,
+        "country_id": 663,
+        "locale": "ar",
+        "name": "تجمع سان مارتين"
+    },
+    {
+        "id": 1094,
+        "country_id": 663,
+        "locale": "en",
+        "name": "Saint Martin"
+    },
+    {
+        "id": 1095,
+        "country_id": 663,
+        "locale": "fr",
+        "name": "Saint-Martin"
+    },
+    {
+        "id": 1096,
+        "country_id": 663,
+        "locale": "es",
+        "name": "San Martín"
+    },
+    {
+        "id": 1097,
+        "country_id": 663,
+        "locale": "tr",
+        "name": "Saint Martin"
+    },
+    {
+        "id": 1098,
+        "country_id": 663,
+        "locale": "id",
+        "name": "Saint Martin"
+    },
+    {
+        "id": 1099,
+        "country_id": 666,
+        "locale": "ar",
+        "name": "سان بيير وميكلون"
+    },
+    {
+        "id": 1100,
+        "country_id": 666,
+        "locale": "en",
+        "name": "Saint Pierre and Miquelon"
+    },
+    {
+        "id": 1101,
+        "country_id": 666,
+        "locale": "fr",
+        "name": "Saint-Pierre-et-Miquelon"
+    },
+    {
+        "id": 1102,
+        "country_id": 666,
+        "locale": "es",
+        "name": "San Pedro y Miquelón"
+    },
+    {
+        "id": 1103,
+        "country_id": 666,
+        "locale": "tr",
+        "name": "Saint Pierre ve Miquelon"
+    },
+    {
+        "id": 1104,
+        "country_id": 666,
+        "locale": "id",
+        "name": "Saint Pierre dan Miquelon"
+    },
+    {
+        "id": 1105,
+        "country_id": 670,
+        "locale": "ar",
+        "name": "سانت فينسنت والغرينادين"
+    },
+    {
+        "id": 1106,
+        "country_id": 670,
+        "locale": "en",
+        "name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "id": 1107,
+        "country_id": 670,
+        "locale": "fr",
+        "name": "Saint-Vincent-et-les-Grenadines"
+    },
+    {
+        "id": 1108,
+        "country_id": 670,
+        "locale": "es",
+        "name": "San Vicente y las Granadinas"
+    },
+    {
+        "id": 1109,
+        "country_id": 670,
+        "locale": "tr",
+        "name": "Saint Vincent ve Grenadinler"
+    },
+    {
+        "id": 1110,
+        "country_id": 670,
+        "locale": "id",
+        "name": "Saint Vincent dan Grenadine"
+    },
+    {
+        "id": 1111,
+        "country_id": 674,
+        "locale": "ar",
+        "name": "سان مارينو"
+    },
+    {
+        "id": 1112,
+        "country_id": 674,
+        "locale": "en",
+        "name": "San Marino"
+    },
+    {
+        "id": 1113,
+        "country_id": 674,
+        "locale": "fr",
+        "name": "Saint-Marin"
+    },
+    {
+        "id": 1114,
+        "country_id": 674,
+        "locale": "es",
+        "name": "San Marino"
+    },
+    {
+        "id": 1115,
+        "country_id": 674,
+        "locale": "tr",
+        "name": "San Marino"
+    },
+    {
+        "id": 1116,
+        "country_id": 674,
+        "locale": "id",
+        "name": "San Marino"
+    },
+    {
+        "id": 1117,
+        "country_id": 678,
+        "locale": "ar",
+        "name": "ساو تومي وبرينسيب"
+    },
+    {
+        "id": 1118,
+        "country_id": 678,
+        "locale": "en",
+        "name": "São Tomé and Príncipe"
+    },
+    {
+        "id": 1119,
+        "country_id": 678,
+        "locale": "fr",
+        "name": "Sao Tomé-et-Principe"
+    },
+    {
+        "id": 1120,
+        "country_id": 678,
+        "locale": "es",
+        "name": "Santo Tomé y Príncipe"
+    },
+    {
+        "id": 1121,
+        "country_id": 678,
+        "locale": "tr",
+        "name": "São Tomé ve Príncipe"
+    },
+    {
+        "id": 1122,
+        "country_id": 678,
+        "locale": "id",
+        "name": "Sao Tome dan Principe"
+    },
+    {
+        "id": 1123,
+        "country_id": 682,
+        "locale": "ar",
+        "name": "السعودية"
+    },
+    {
+        "id": 1124,
+        "country_id": 682,
+        "locale": "en",
+        "name": "Saudi Arabia"
+    },
+    {
+        "id": 1125,
+        "country_id": 682,
+        "locale": "fr",
+        "name": "Arabie saoudite"
+    },
+    {
+        "id": 1126,
+        "country_id": 682,
+        "locale": "es",
+        "name": "Arabia Saudita"
+    },
+    {
+        "id": 1127,
+        "country_id": 682,
+        "locale": "tr",
+        "name": "Suudi Arabistan"
+    },
+    {
+        "id": 1128,
+        "country_id": 682,
+        "locale": "id",
+        "name": "Arab Saudi"
+    },
+    {
+        "id": 1129,
+        "country_id": 686,
+        "locale": "ar",
+        "name": "السنغال"
+    },
+    {
+        "id": 1130,
+        "country_id": 686,
+        "locale": "en",
+        "name": "Senegal"
+    },
+    {
+        "id": 1131,
+        "country_id": 686,
+        "locale": "fr",
+        "name": "Sénégal"
+    },
+    {
+        "id": 1132,
+        "country_id": 686,
+        "locale": "es",
+        "name": "Senegal"
+    },
+    {
+        "id": 1133,
+        "country_id": 686,
+        "locale": "tr",
+        "name": "Senegal"
+    },
+    {
+        "id": 1134,
+        "country_id": 686,
+        "locale": "id",
+        "name": "Senegal"
+    },
+    {
+        "id": 1135,
+        "country_id": 688,
+        "locale": "ar",
+        "name": "صربيا"
+    },
+    {
+        "id": 1136,
+        "country_id": 688,
+        "locale": "en",
+        "name": "Serbia"
+    },
+    {
+        "id": 1137,
+        "country_id": 688,
+        "locale": "fr",
+        "name": "Serbie"
+    },
+    {
+        "id": 1138,
+        "country_id": 688,
+        "locale": "es",
+        "name": "Serbia"
+    },
+    {
+        "id": 1139,
+        "country_id": 688,
+        "locale": "tr",
+        "name": "Sırbistan"
+    },
+    {
+        "id": 1140,
+        "country_id": 688,
+        "locale": "id",
+        "name": "Serbia"
+    },
+    {
+        "id": 1141,
+        "country_id": 690,
+        "locale": "ar",
+        "name": "سيشل"
+    },
+    {
+        "id": 1142,
+        "country_id": 690,
+        "locale": "en",
+        "name": "Seychelles"
+    },
+    {
+        "id": 1143,
+        "country_id": 690,
+        "locale": "fr",
+        "name": "Seychelles"
+    },
+    {
+        "id": 1144,
+        "country_id": 690,
+        "locale": "es",
+        "name": "Seychelles"
+    },
+    {
+        "id": 1145,
+        "country_id": 690,
+        "locale": "tr",
+        "name": "Seyşeller"
+    },
+    {
+        "id": 1146,
+        "country_id": 690,
+        "locale": "id",
+        "name": "Seychelles"
+    },
+    {
+        "id": 1147,
+        "country_id": 694,
+        "locale": "ar",
+        "name": "سيراليون"
+    },
+    {
+        "id": 1148,
+        "country_id": 694,
+        "locale": "en",
+        "name": "Sierra Leone"
+    },
+    {
+        "id": 1149,
+        "country_id": 694,
+        "locale": "fr",
+        "name": "Sierra Leone"
+    },
+    {
+        "id": 1150,
+        "country_id": 694,
+        "locale": "es",
+        "name": "Sierra Leona"
+    },
+    {
+        "id": 1151,
+        "country_id": 694,
+        "locale": "tr",
+        "name": "Sierra Leone"
+    },
+    {
+        "id": 1152,
+        "country_id": 694,
+        "locale": "id",
+        "name": "Sierra Leone"
+    },
+    {
+        "id": 1153,
+        "country_id": 702,
+        "locale": "ar",
+        "name": "سنغافورة"
+    },
+    {
+        "id": 1154,
+        "country_id": 702,
+        "locale": "en",
+        "name": "Singapore"
+    },
+    {
+        "id": 1155,
+        "country_id": 702,
+        "locale": "fr",
+        "name": "Singapour"
+    },
+    {
+        "id": 1156,
+        "country_id": 702,
+        "locale": "es",
+        "name": "Singapur"
+    },
+    {
+        "id": 1157,
+        "country_id": 702,
+        "locale": "tr",
+        "name": "Singapur"
+    },
+    {
+        "id": 1158,
+        "country_id": 702,
+        "locale": "id",
+        "name": "Singapura"
+    },
+    {
+        "id": 1159,
+        "country_id": 703,
+        "locale": "ar",
+        "name": "سلوفاكيا"
+    },
+    {
+        "id": 1160,
+        "country_id": 703,
+        "locale": "en",
+        "name": "Slovakia"
+    },
+    {
+        "id": 1161,
+        "country_id": 703,
+        "locale": "fr",
+        "name": "Slovaquie"
+    },
+    {
+        "id": 1162,
+        "country_id": 703,
+        "locale": "es",
+        "name": "Eslovaquia"
+    },
+    {
+        "id": 1163,
+        "country_id": 703,
+        "locale": "tr",
+        "name": "Slovakya"
+    },
+    {
+        "id": 1164,
+        "country_id": 703,
+        "locale": "id",
+        "name": "Slowakia"
+    },
+    {
+        "id": 1165,
+        "country_id": 704,
+        "locale": "ar",
+        "name": "فيتنام"
+    },
+    {
+        "id": 1166,
+        "country_id": 704,
+        "locale": "en",
+        "name": "Vietnam"
+    },
+    {
+        "id": 1167,
+        "country_id": 704,
+        "locale": "fr",
+        "name": "Viêt Nam"
+    },
+    {
+        "id": 1168,
+        "country_id": 704,
+        "locale": "es",
+        "name": "Vietnam"
+    },
+    {
+        "id": 1169,
+        "country_id": 704,
+        "locale": "tr",
+        "name": "Vietnam"
+    },
+    {
+        "id": 1170,
+        "country_id": 704,
+        "locale": "id",
+        "name": "Vietnam"
+    },
+    {
+        "id": 1171,
+        "country_id": 705,
+        "locale": "ar",
+        "name": "سلوفينيا"
+    },
+    {
+        "id": 1172,
+        "country_id": 705,
+        "locale": "en",
+        "name": "Slovenia"
+    },
+    {
+        "id": 1173,
+        "country_id": 705,
+        "locale": "fr",
+        "name": "Slovénie"
+    },
+    {
+        "id": 1174,
+        "country_id": 705,
+        "locale": "es",
+        "name": "Eslovenia"
+    },
+    {
+        "id": 1175,
+        "country_id": 705,
+        "locale": "tr",
+        "name": "Slovenya"
+    },
+    {
+        "id": 1176,
+        "country_id": 705,
+        "locale": "id",
+        "name": "Slovenia"
+    },
+    {
+        "id": 1177,
+        "country_id": 706,
+        "locale": "ar",
+        "name": "الصومال"
+    },
+    {
+        "id": 1178,
+        "country_id": 706,
+        "locale": "en",
+        "name": "Somalia"
+    },
+    {
+        "id": 1179,
+        "country_id": 706,
+        "locale": "fr",
+        "name": "Somalie"
+    },
+    {
+        "id": 1180,
+        "country_id": 706,
+        "locale": "es",
+        "name": "Somalia"
+    },
+    {
+        "id": 1181,
+        "country_id": 706,
+        "locale": "tr",
+        "name": "Somali"
+    },
+    {
+        "id": 1182,
+        "country_id": 706,
+        "locale": "id",
+        "name": "Somalia"
+    },
+    {
+        "id": 1183,
+        "country_id": 710,
+        "locale": "ar",
+        "name": "جنوب أفريقيا"
+    },
+    {
+        "id": 1184,
+        "country_id": 710,
+        "locale": "en",
+        "name": "South Africa"
+    },
+    {
+        "id": 1185,
+        "country_id": 710,
+        "locale": "fr",
+        "name": "Afrique du Sud"
+    },
+    {
+        "id": 1186,
+        "country_id": 710,
+        "locale": "es",
+        "name": "Sudáfrica"
+    },
+    {
+        "id": 1187,
+        "country_id": 710,
+        "locale": "tr",
+        "name": "Güney Afrika Cumhuriyeti"
+    },
+    {
+        "id": 1188,
+        "country_id": 710,
+        "locale": "id",
+        "name": "Afrika Selatan"
+    },
+    {
+        "id": 1189,
+        "country_id": 716,
+        "locale": "ar",
+        "name": "زيمبابوي"
+    },
+    {
+        "id": 1190,
+        "country_id": 716,
+        "locale": "en",
+        "name": "Zimbabwe"
+    },
+    {
+        "id": 1191,
+        "country_id": 716,
+        "locale": "fr",
+        "name": "Zimbabwe"
+    },
+    {
+        "id": 1192,
+        "country_id": 716,
+        "locale": "es",
+        "name": "Zimbabue"
+    },
+    {
+        "id": 1193,
+        "country_id": 716,
+        "locale": "tr",
+        "name": "Zimbabve"
+    },
+    {
+        "id": 1194,
+        "country_id": 716,
+        "locale": "id",
+        "name": "Zimbabwe"
+    },
+    {
+        "id": 1195,
+        "country_id": 724,
+        "locale": "ar",
+        "name": "إسبانيا"
+    },
+    {
+        "id": 1196,
+        "country_id": 724,
+        "locale": "en",
+        "name": "Spain"
+    },
+    {
+        "id": 1197,
+        "country_id": 724,
+        "locale": "fr",
+        "name": "Espagne"
+    },
+    {
+        "id": 1198,
+        "country_id": 724,
+        "locale": "es",
+        "name": "España"
+    },
+    {
+        "id": 1199,
+        "country_id": 724,
+        "locale": "tr",
+        "name": "İspanya"
+    },
+    {
+        "id": 1200,
+        "country_id": 724,
+        "locale": "id",
+        "name": "Spanyol"
+    },
+    {
+        "id": 1201,
+        "country_id": 728,
+        "locale": "ar",
+        "name": "جنوب السودان"
+    },
+    {
+        "id": 1202,
+        "country_id": 728,
+        "locale": "en",
+        "name": "South Sudan"
+    },
+    {
+        "id": 1203,
+        "country_id": 728,
+        "locale": "fr",
+        "name": "Soudan du Sud"
+    },
+    {
+        "id": 1204,
+        "country_id": 728,
+        "locale": "es",
+        "name": "Sudán del Sur"
+    },
+    {
+        "id": 1205,
+        "country_id": 728,
+        "locale": "tr",
+        "name": "Güney Sudan"
+    },
+    {
+        "id": 1206,
+        "country_id": 728,
+        "locale": "id",
+        "name": "Sudan Selatan"
+    },
+    {
+        "id": 1207,
+        "country_id": 729,
+        "locale": "ar",
+        "name": "السودان"
+    },
+    {
+        "id": 1208,
+        "country_id": 729,
+        "locale": "en",
+        "name": "Sudan"
+    },
+    {
+        "id": 1209,
+        "country_id": 729,
+        "locale": "fr",
+        "name": "Soudan"
+    },
+    {
+        "id": 1210,
+        "country_id": 729,
+        "locale": "es",
+        "name": "Sudán"
+    },
+    {
+        "id": 1211,
+        "country_id": 729,
+        "locale": "tr",
+        "name": "Sudan"
+    },
+    {
+        "id": 1212,
+        "country_id": 729,
+        "locale": "id",
+        "name": "Sudan"
+    },
+    {
+        "id": 1213,
+        "country_id": 732,
+        "locale": "ar",
+        "name": "الصحراء الغربية"
+    },
+    {
+        "id": 1214,
+        "country_id": 732,
+        "locale": "en",
+        "name": "Western Sahara"
+    },
+    {
+        "id": 1215,
+        "country_id": 732,
+        "locale": "fr",
+        "name": "Sahara occidental"
+    },
+    {
+        "id": 1216,
+        "country_id": 732,
+        "locale": "es",
+        "name": "Sahara Occidental"
+    },
+    {
+        "id": 1217,
+        "country_id": 732,
+        "locale": "tr",
+        "name": "Batı Sahra"
+    },
+    {
+        "id": 1218,
+        "country_id": 732,
+        "locale": "id",
+        "name": "Sahara Barat"
+    },
+    {
+        "id": 1219,
+        "country_id": 740,
+        "locale": "ar",
+        "name": "سورينام"
+    },
+    {
+        "id": 1220,
+        "country_id": 740,
+        "locale": "en",
+        "name": "Suriname"
+    },
+    {
+        "id": 1221,
+        "country_id": 740,
+        "locale": "fr",
+        "name": "Suriname"
+    },
+    {
+        "id": 1222,
+        "country_id": 740,
+        "locale": "es",
+        "name": "Surinam"
+    },
+    {
+        "id": 1223,
+        "country_id": 740,
+        "locale": "tr",
+        "name": "Surinam"
+    },
+    {
+        "id": 1224,
+        "country_id": 740,
+        "locale": "id",
+        "name": "Suriname"
+    },
+    {
+        "id": 1225,
+        "country_id": 748,
+        "locale": "ar",
+        "name": "إسواتيني"
+    },
+    {
+        "id": 1226,
+        "country_id": 748,
+        "locale": "en",
+        "name": "Eswatini"
+    },
+    {
+        "id": 1227,
+        "country_id": 748,
+        "locale": "fr",
+        "name": "Eswatini"
+    },
+    {
+        "id": 1228,
+        "country_id": 748,
+        "locale": "es",
+        "name": "Suazilandia"
+    },
+    {
+        "id": 1229,
+        "country_id": 748,
+        "locale": "tr",
+        "name": "Esvatini"
+    },
+    {
+        "id": 1230,
+        "country_id": 748,
+        "locale": "id",
+        "name": "Eswatini"
+    },
+    {
+        "id": 1231,
+        "country_id": 752,
+        "locale": "ar",
+        "name": "السويد"
+    },
+    {
+        "id": 1232,
+        "country_id": 752,
+        "locale": "en",
+        "name": "Sweden"
+    },
+    {
+        "id": 1233,
+        "country_id": 752,
+        "locale": "fr",
+        "name": "Suède"
+    },
+    {
+        "id": 1234,
+        "country_id": 752,
+        "locale": "es",
+        "name": "Suecia"
+    },
+    {
+        "id": 1235,
+        "country_id": 752,
+        "locale": "tr",
+        "name": "İsveç"
+    },
+    {
+        "id": 1236,
+        "country_id": 752,
+        "locale": "id",
+        "name": "Swedia"
+    },
+    {
+        "id": 1237,
+        "country_id": 756,
+        "locale": "ar",
+        "name": "سويسرا"
+    },
+    {
+        "id": 1238,
+        "country_id": 756,
+        "locale": "en",
+        "name": "Switzerland"
+    },
+    {
+        "id": 1239,
+        "country_id": 756,
+        "locale": "fr",
+        "name": "Suisse"
+    },
+    {
+        "id": 1240,
+        "country_id": 756,
+        "locale": "es",
+        "name": "Suiza"
+    },
+    {
+        "id": 1241,
+        "country_id": 756,
+        "locale": "tr",
+        "name": "İsviçre"
+    },
+    {
+        "id": 1242,
+        "country_id": 756,
+        "locale": "id",
+        "name": "Swiss"
+    },
+    {
+        "id": 1243,
+        "country_id": 760,
+        "locale": "ar",
+        "name": "سوريا"
+    },
+    {
+        "id": 1244,
+        "country_id": 760,
+        "locale": "en",
+        "name": "Syria"
+    },
+    {
+        "id": 1245,
+        "country_id": 760,
+        "locale": "fr",
+        "name": "Syrie"
+    },
+    {
+        "id": 1246,
+        "country_id": 760,
+        "locale": "es",
+        "name": "Siria"
+    },
+    {
+        "id": 1247,
+        "country_id": 760,
+        "locale": "tr",
+        "name": "Suriye"
+    },
+    {
+        "id": 1248,
+        "country_id": 760,
+        "locale": "id",
+        "name": "Suriah"
+    },
+    {
+        "id": 1249,
+        "country_id": 762,
+        "locale": "ar",
+        "name": "طاجيكستان"
+    },
+    {
+        "id": 1250,
+        "country_id": 762,
+        "locale": "en",
+        "name": "Tajikistan"
+    },
+    {
+        "id": 1251,
+        "country_id": 762,
+        "locale": "fr",
+        "name": "Tadjikistan"
+    },
+    {
+        "id": 1252,
+        "country_id": 762,
+        "locale": "es",
+        "name": "Tayikistán"
+    },
+    {
+        "id": 1253,
+        "country_id": 762,
+        "locale": "tr",
+        "name": "Tacikistan"
+    },
+    {
+        "id": 1254,
+        "country_id": 762,
+        "locale": "id",
+        "name": "Tajikistan"
+    },
+    {
+        "id": 1255,
+        "country_id": 764,
+        "locale": "ar",
+        "name": "تايلاند"
+    },
+    {
+        "id": 1256,
+        "country_id": 764,
+        "locale": "en",
+        "name": "Thailand"
+    },
+    {
+        "id": 1257,
+        "country_id": 764,
+        "locale": "fr",
+        "name": "Thaïlande"
+    },
+    {
+        "id": 1258,
+        "country_id": 764,
+        "locale": "es",
+        "name": "Tailandia"
+    },
+    {
+        "id": 1259,
+        "country_id": 764,
+        "locale": "tr",
+        "name": "Tayland"
+    },
+    {
+        "id": 1260,
+        "country_id": 764,
+        "locale": "id",
+        "name": "Thailand"
+    },
+    {
+        "id": 1261,
+        "country_id": 768,
+        "locale": "ar",
+        "name": "توغو"
+    },
+    {
+        "id": 1262,
+        "country_id": 768,
+        "locale": "en",
+        "name": "Togo"
+    },
+    {
+        "id": 1263,
+        "country_id": 768,
+        "locale": "fr",
+        "name": "Togo"
+    },
+    {
+        "id": 1264,
+        "country_id": 768,
+        "locale": "es",
+        "name": "Togo"
+    },
+    {
+        "id": 1265,
+        "country_id": 768,
+        "locale": "tr",
+        "name": "Togo"
+    },
+    {
+        "id": 1266,
+        "country_id": 768,
+        "locale": "id",
+        "name": "Togo"
+    },
+    {
+        "id": 1267,
+        "country_id": 776,
+        "locale": "ar",
+        "name": "تونغا"
+    },
+    {
+        "id": 1268,
+        "country_id": 776,
+        "locale": "en",
+        "name": "Tonga"
+    },
+    {
+        "id": 1269,
+        "country_id": 776,
+        "locale": "fr",
+        "name": "Tonga"
+    },
+    {
+        "id": 1270,
+        "country_id": 776,
+        "locale": "es",
+        "name": "Tonga"
+    },
+    {
+        "id": 1271,
+        "country_id": 776,
+        "locale": "tr",
+        "name": "Tonga"
+    },
+    {
+        "id": 1272,
+        "country_id": 776,
+        "locale": "id",
+        "name": "Tonga"
+    },
+    {
+        "id": 1273,
+        "country_id": 780,
+        "locale": "ar",
+        "name": "ترينيداد وتوباغو"
+    },
+    {
+        "id": 1274,
+        "country_id": 780,
+        "locale": "en",
+        "name": "Trinidad and Tobago"
+    },
+    {
+        "id": 1275,
+        "country_id": 780,
+        "locale": "fr",
+        "name": "Trinité-et-Tobago"
+    },
+    {
+        "id": 1276,
+        "country_id": 780,
+        "locale": "es",
+        "name": "Trinidad y Tobago"
+    },
+    {
+        "id": 1277,
+        "country_id": 780,
+        "locale": "tr",
+        "name": "Trinidad ve Tobago"
+    },
+    {
+        "id": 1278,
+        "country_id": 780,
+        "locale": "id",
+        "name": "Trinidad dan Tobago"
+    },
+    {
+        "id": 1279,
+        "country_id": 784,
+        "locale": "ar",
+        "name": "الإمارات العربية المتحدة"
+    },
+    {
+        "id": 1280,
+        "country_id": 784,
+        "locale": "en",
+        "name": "United Arab Emirates"
+    },
+    {
+        "id": 1281,
+        "country_id": 784,
+        "locale": "fr",
+        "name": "Émirats arabes unis"
+    },
+    {
+        "id": 1282,
+        "country_id": 784,
+        "locale": "es",
+        "name": "Emiratos Árabes Unidos"
+    },
+    {
+        "id": 1283,
+        "country_id": 784,
+        "locale": "tr",
+        "name": "Birleşik Arap Emirlikleri"
+    },
+    {
+        "id": 1284,
+        "country_id": 784,
+        "locale": "id",
+        "name": "Uni Emirat Arab"
+    },
+    {
+        "id": 1285,
+        "country_id": 788,
+        "locale": "ar",
+        "name": "تونس"
+    },
+    {
+        "id": 1286,
+        "country_id": 788,
+        "locale": "en",
+        "name": "Tunisia"
+    },
+    {
+        "id": 1287,
+        "country_id": 788,
+        "locale": "fr",
+        "name": "Tunisie"
+    },
+    {
+        "id": 1288,
+        "country_id": 788,
+        "locale": "es",
+        "name": "Túnez"
+    },
+    {
+        "id": 1289,
+        "country_id": 788,
+        "locale": "tr",
+        "name": "Tunus"
+    },
+    {
+        "id": 1290,
+        "country_id": 788,
+        "locale": "id",
+        "name": "Tunisia"
+    },
+    {
+        "id": 1291,
+        "country_id": 792,
+        "locale": "ar",
+        "name": "تركيا"
+    },
+    {
+        "id": 1292,
+        "country_id": 792,
+        "locale": "en",
+        "name": "Turkey"
+    },
+    {
+        "id": 1293,
+        "country_id": 792,
+        "locale": "fr",
+        "name": "Turquie"
+    },
+    {
+        "id": 1294,
+        "country_id": 792,
+        "locale": "es",
+        "name": "Turquía"
+    },
+    {
+        "id": 1295,
+        "country_id": 792,
+        "locale": "tr",
+        "name": "Türkiye"
+    },
+    {
+        "id": 1296,
+        "country_id": 792,
+        "locale": "id",
+        "name": "Turki"
+    },
+    {
+        "id": 1297,
+        "country_id": 795,
+        "locale": "ar",
+        "name": "تركمانستان"
+    },
+    {
+        "id": 1298,
+        "country_id": 795,
+        "locale": "en",
+        "name": "Turkmenistan"
+    },
+    {
+        "id": 1299,
+        "country_id": 795,
+        "locale": "fr",
+        "name": "Turkménistan"
+    },
+    {
+        "id": 1300,
+        "country_id": 795,
+        "locale": "es",
+        "name": "Turkmenistán"
+    },
+    {
+        "id": 1301,
+        "country_id": 795,
+        "locale": "tr",
+        "name": "Türkmenistan"
+    },
+    {
+        "id": 1302,
+        "country_id": 795,
+        "locale": "id",
+        "name": "Turkmenistan"
+    },
+    {
+        "id": 1303,
+        "country_id": 796,
+        "locale": "ar",
+        "name": "جزر توركس وكايكوس"
+    },
+    {
+        "id": 1304,
+        "country_id": 796,
+        "locale": "en",
+        "name": "Turks and Caicos Islands"
+    },
+    {
+        "id": 1305,
+        "country_id": 796,
+        "locale": "fr",
+        "name": "îles Turques-et-Caïques"
+    },
+    {
+        "id": 1306,
+        "country_id": 796,
+        "locale": "es",
+        "name": "Islas Turcas y Caicos"
+    },
+    {
+        "id": 1307,
+        "country_id": 796,
+        "locale": "tr",
+        "name": "Turks ve Caicos Adaları"
+    },
+    {
+        "id": 1308,
+        "country_id": 796,
+        "locale": "id",
+        "name": "Kepulauan Turks dan Caicos"
+    },
+    {
+        "id": 1309,
+        "country_id": 798,
+        "locale": "ar",
+        "name": "توفالو"
+    },
+    {
+        "id": 1310,
+        "country_id": 798,
+        "locale": "en",
+        "name": "Tuvalu"
+    },
+    {
+        "id": 1311,
+        "country_id": 798,
+        "locale": "fr",
+        "name": "Tuvalu"
+    },
+    {
+        "id": 1312,
+        "country_id": 798,
+        "locale": "es",
+        "name": "Tuvalu"
+    },
+    {
+        "id": 1313,
+        "country_id": 798,
+        "locale": "tr",
+        "name": "Tuvalu"
+    },
+    {
+        "id": 1314,
+        "country_id": 798,
+        "locale": "id",
+        "name": "Tuvalu"
+    },
+    {
+        "id": 1315,
+        "country_id": 800,
+        "locale": "ar",
+        "name": "أوغندا"
+    },
+    {
+        "id": 1316,
+        "country_id": 800,
+        "locale": "en",
+        "name": "Uganda"
+    },
+    {
+        "id": 1317,
+        "country_id": 800,
+        "locale": "fr",
+        "name": "Ouganda"
+    },
+    {
+        "id": 1318,
+        "country_id": 800,
+        "locale": "es",
+        "name": "Uganda"
+    },
+    {
+        "id": 1319,
+        "country_id": 800,
+        "locale": "tr",
+        "name": "Uganda"
+    },
+    {
+        "id": 1320,
+        "country_id": 800,
+        "locale": "id",
+        "name": "Uganda"
+    },
+    {
+        "id": 1321,
+        "country_id": 804,
+        "locale": "ar",
+        "name": "أوكرانيا"
+    },
+    {
+        "id": 1322,
+        "country_id": 804,
+        "locale": "en",
+        "name": "Ukraine"
+    },
+    {
+        "id": 1323,
+        "country_id": 804,
+        "locale": "fr",
+        "name": "Ukraine"
+    },
+    {
+        "id": 1324,
+        "country_id": 804,
+        "locale": "es",
+        "name": "Ucrania"
+    },
+    {
+        "id": 1325,
+        "country_id": 804,
+        "locale": "tr",
+        "name": "Ukrayna"
+    },
+    {
+        "id": 1326,
+        "country_id": 804,
+        "locale": "id",
+        "name": "Ukraina"
+    },
+    {
+        "id": 1327,
+        "country_id": 807,
+        "locale": "ar",
+        "name": "مقدونيا الشمالية"
+    },
+    {
+        "id": 1328,
+        "country_id": 807,
+        "locale": "en",
+        "name": "North Macedonia"
+    },
+    {
+        "id": 1329,
+        "country_id": 807,
+        "locale": "fr",
+        "name": "Macédoine du Nord"
+    },
+    {
+        "id": 1330,
+        "country_id": 807,
+        "locale": "es",
+        "name": "Macedonia del Norte"
+    },
+    {
+        "id": 1331,
+        "country_id": 807,
+        "locale": "tr",
+        "name": "Kuzey Makedonya"
+    },
+    {
+        "id": 1332,
+        "country_id": 807,
+        "locale": "id",
+        "name": "Republik Makedonia Utara"
+    },
+    {
+        "id": 1333,
+        "country_id": 818,
+        "locale": "ar",
+        "name": "مصر"
+    },
+    {
+        "id": 1334,
+        "country_id": 818,
+        "locale": "en",
+        "name": "Egypt"
+    },
+    {
+        "id": 1335,
+        "country_id": 818,
+        "locale": "fr",
+        "name": "Égypte"
+    },
+    {
+        "id": 1336,
+        "country_id": 818,
+        "locale": "es",
+        "name": "Egipto"
+    },
+    {
+        "id": 1337,
+        "country_id": 818,
+        "locale": "tr",
+        "name": "Mısır"
+    },
+    {
+        "id": 1338,
+        "country_id": 818,
+        "locale": "id",
+        "name": "Mesir"
+    },
+    {
+        "id": 1339,
+        "country_id": 826,
+        "locale": "ar",
+        "name": "المملكة المتحدة"
+    },
+    {
+        "id": 1340,
+        "country_id": 826,
+        "locale": "en",
+        "name": "United Kingdom"
+    },
+    {
+        "id": 1341,
+        "country_id": 826,
+        "locale": "fr",
+        "name": "Royaume-Uni"
+    },
+    {
+        "id": 1342,
+        "country_id": 826,
+        "locale": "es",
+        "name": "Reino Unido"
+    },
+    {
+        "id": 1343,
+        "country_id": 826,
+        "locale": "tr",
+        "name": "Birleşik Krallık"
+    },
+    {
+        "id": 1344,
+        "country_id": 826,
+        "locale": "id",
+        "name": "Britania Raya"
+    },
+    {
+        "id": 1345,
+        "country_id": 831,
+        "locale": "ar",
+        "name": "غيرنزي"
+    },
+    {
+        "id": 1346,
+        "country_id": 831,
+        "locale": "en",
+        "name": "Guernsey"
+    },
+    {
+        "id": 1347,
+        "country_id": 831,
+        "locale": "fr",
+        "name": "Guernesey"
+    },
+    {
+        "id": 1348,
+        "country_id": 831,
+        "locale": "es",
+        "name": "Guernsey"
+    },
+    {
+        "id": 1349,
+        "country_id": 831,
+        "locale": "tr",
+        "name": "Guernsey"
+    },
+    {
+        "id": 1350,
+        "country_id": 831,
+        "locale": "id",
+        "name": "Guernsey"
+    },
+    {
+        "id": 1351,
+        "country_id": 832,
+        "locale": "ar",
+        "name": "جيرزي"
+    },
+    {
+        "id": 1352,
+        "country_id": 832,
+        "locale": "en",
+        "name": "Jersey"
+    },
+    {
+        "id": 1353,
+        "country_id": 832,
+        "locale": "fr",
+        "name": "Jersey"
+    },
+    {
+        "id": 1354,
+        "country_id": 832,
+        "locale": "es",
+        "name": "Jersey"
+    },
+    {
+        "id": 1355,
+        "country_id": 832,
+        "locale": "tr",
+        "name": "Jersey"
+    },
+    {
+        "id": 1356,
+        "country_id": 832,
+        "locale": "id",
+        "name": "Jersey"
+    },
+    {
+        "id": 1357,
+        "country_id": 833,
+        "locale": "ar",
+        "name": "جزيرة مان"
+    },
+    {
+        "id": 1358,
+        "country_id": 833,
+        "locale": "en",
+        "name": "Isle of Man"
+    },
+    {
+        "id": 1359,
+        "country_id": 833,
+        "locale": "fr",
+        "name": "île de Man"
+    },
+    {
+        "id": 1360,
+        "country_id": 833,
+        "locale": "es",
+        "name": "Isla de Man"
+    },
+    {
+        "id": 1361,
+        "country_id": 833,
+        "locale": "tr",
+        "name": "Man Adası"
+    },
+    {
+        "id": 1362,
+        "country_id": 833,
+        "locale": "id",
+        "name": "Pulau Man"
+    },
+    {
+        "id": 1363,
+        "country_id": 834,
+        "locale": "ar",
+        "name": "تنزانيا"
+    },
+    {
+        "id": 1364,
+        "country_id": 834,
+        "locale": "en",
+        "name": "Tanzania"
+    },
+    {
+        "id": 1365,
+        "country_id": 834,
+        "locale": "fr",
+        "name": "Tanzanie"
+    },
+    {
+        "id": 1366,
+        "country_id": 834,
+        "locale": "es",
+        "name": "Tanzania"
+    },
+    {
+        "id": 1367,
+        "country_id": 834,
+        "locale": "tr",
+        "name": "Tanzanya"
+    },
+    {
+        "id": 1368,
+        "country_id": 834,
+        "locale": "id",
+        "name": "Tanzania"
+    },
+    {
+        "id": 1369,
+        "country_id": 840,
+        "locale": "ar",
+        "name": "الولايات المتحدة"
+    },
+    {
+        "id": 1370,
+        "country_id": 840,
+        "locale": "en",
+        "name": "United States of America"
+    },
+    {
+        "id": 1371,
+        "country_id": 840,
+        "locale": "fr",
+        "name": "États-Unis"
+    },
+    {
+        "id": 1372,
+        "country_id": 840,
+        "locale": "es",
+        "name": "Estados Unidos"
+    },
+    {
+        "id": 1373,
+        "country_id": 840,
+        "locale": "tr",
+        "name": "Amerika Birleşik Devletleri"
+    },
+    {
+        "id": 1374,
+        "country_id": 840,
+        "locale": "id",
+        "name": "Amerika Serikat"
+    },
+    {
+        "id": 1375,
+        "country_id": 850,
+        "locale": "ar",
+        "name": "جزر العذراء الأمريكية"
+    },
+    {
+        "id": 1376,
+        "country_id": 850,
+        "locale": "en",
+        "name": "United States Virgin Islands"
+    },
+    {
+        "id": 1377,
+        "country_id": 850,
+        "locale": "fr",
+        "name": "îles Vierges des États-Unis"
+    },
+    {
+        "id": 1378,
+        "country_id": 850,
+        "locale": "es",
+        "name": "Islas Vírgenes de los Estados Unidos"
+    },
+    {
+        "id": 1379,
+        "country_id": 850,
+        "locale": "tr",
+        "name": "ABD Virjin Adaları"
+    },
+    {
+        "id": 1380,
+        "country_id": 850,
+        "locale": "id",
+        "name": "Kepulauan Virgin Amerika Serikat"
+    },
+    {
+        "id": 1381,
+        "country_id": 854,
+        "locale": "ar",
+        "name": "بوركينا فاسو"
+    },
+    {
+        "id": 1382,
+        "country_id": 854,
+        "locale": "en",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": 1383,
+        "country_id": 854,
+        "locale": "fr",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": 1384,
+        "country_id": 854,
+        "locale": "es",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": 1385,
+        "country_id": 854,
+        "locale": "tr",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": 1386,
+        "country_id": 854,
+        "locale": "id",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": 1387,
+        "country_id": 858,
+        "locale": "ar",
+        "name": "الأوروغواي"
+    },
+    {
+        "id": 1388,
+        "country_id": 858,
+        "locale": "en",
+        "name": "Uruguay"
+    },
+    {
+        "id": 1389,
+        "country_id": 858,
+        "locale": "fr",
+        "name": "Uruguay"
+    },
+    {
+        "id": 1390,
+        "country_id": 858,
+        "locale": "es",
+        "name": "Uruguay"
+    },
+    {
+        "id": 1391,
+        "country_id": 858,
+        "locale": "tr",
+        "name": "Uruguay"
+    },
+    {
+        "id": 1392,
+        "country_id": 858,
+        "locale": "id",
+        "name": "Uruguay"
+    },
+    {
+        "id": 1393,
+        "country_id": 860,
+        "locale": "ar",
+        "name": "أوزبكستان"
+    },
+    {
+        "id": 1394,
+        "country_id": 860,
+        "locale": "en",
+        "name": "Uzbekistan"
+    },
+    {
+        "id": 1395,
+        "country_id": 860,
+        "locale": "fr",
+        "name": "Ouzbékistan"
+    },
+    {
+        "id": 1396,
+        "country_id": 860,
+        "locale": "es",
+        "name": "Uzbekistán"
+    },
+    {
+        "id": 1397,
+        "country_id": 860,
+        "locale": "tr",
+        "name": "Özbekistan"
+    },
+    {
+        "id": 1398,
+        "country_id": 860,
+        "locale": "id",
+        "name": "Uzbekistan"
+    },
+    {
+        "id": 1399,
+        "country_id": 862,
+        "locale": "ar",
+        "name": "فنزويلا"
+    },
+    {
+        "id": 1400,
+        "country_id": 862,
+        "locale": "en",
+        "name": "Venezuela"
+    },
+    {
+        "id": 1401,
+        "country_id": 862,
+        "locale": "fr",
+        "name": "Venezuela"
+    },
+    {
+        "id": 1402,
+        "country_id": 862,
+        "locale": "es",
+        "name": "Venezuela"
+    },
+    {
+        "id": 1403,
+        "country_id": 862,
+        "locale": "tr",
+        "name": "Venezuela"
+    },
+    {
+        "id": 1404,
+        "country_id": 862,
+        "locale": "id",
+        "name": "Venezuela"
+    },
+    {
+        "id": 1405,
+        "country_id": 876,
+        "locale": "ar",
+        "name": "واليس وفوتونا"
+    },
+    {
+        "id": 1406,
+        "country_id": 876,
+        "locale": "en",
+        "name": "Wallis and Futuna"
+    },
+    {
+        "id": 1407,
+        "country_id": 876,
+        "locale": "fr",
+        "name": "Wallis-et-Futuna"
+    },
+    {
+        "id": 1408,
+        "country_id": 876,
+        "locale": "es",
+        "name": "Wallis y Futuna"
+    },
+    {
+        "id": 1409,
+        "country_id": 876,
+        "locale": "tr",
+        "name": "Wallis ve Futuna Adaları"
+    },
+    {
+        "id": 1410,
+        "country_id": 876,
+        "locale": "id",
+        "name": "Wallis dan Futuna"
+    },
+    {
+        "id": 1411,
+        "country_id": 882,
+        "locale": "ar",
+        "name": "ساموا"
+    },
+    {
+        "id": 1412,
+        "country_id": 882,
+        "locale": "en",
+        "name": "Samoa"
+    },
+    {
+        "id": 1413,
+        "country_id": 882,
+        "locale": "fr",
+        "name": "Samoa"
+    },
+    {
+        "id": 1414,
+        "country_id": 882,
+        "locale": "es",
+        "name": "Samoa"
+    },
+    {
+        "id": 1415,
+        "country_id": 882,
+        "locale": "tr",
+        "name": "Samoa"
+    },
+    {
+        "id": 1416,
+        "country_id": 882,
+        "locale": "id",
+        "name": "Samoa"
+    },
+    {
+        "id": 1417,
+        "country_id": 887,
+        "locale": "ar",
+        "name": "اليمن"
+    },
+    {
+        "id": 1418,
+        "country_id": 887,
+        "locale": "en",
+        "name": "Yemen"
+    },
+    {
+        "id": 1419,
+        "country_id": 887,
+        "locale": "fr",
+        "name": "Yémen"
+    },
+    {
+        "id": 1420,
+        "country_id": 887,
+        "locale": "es",
+        "name": "Yemen"
+    },
+    {
+        "id": 1421,
+        "country_id": 887,
+        "locale": "tr",
+        "name": "Yemen"
+    },
+    {
+        "id": 1422,
+        "country_id": 887,
+        "locale": "id",
+        "name": "Yaman"
+    },
+    {
+        "id": 1423,
+        "country_id": 894,
+        "locale": "ar",
+        "name": "زامبيا"
+    },
+    {
+        "id": 1424,
+        "country_id": 894,
+        "locale": "en",
+        "name": "Zambia"
+    },
+    {
+        "id": 1425,
+        "country_id": 894,
+        "locale": "fr",
+        "name": "Zambie"
+    },
+    {
+        "id": 1426,
+        "country_id": 894,
+        "locale": "es",
+        "name": "Zambia"
+    },
+    {
+        "id": 1427,
+        "country_id": 894,
+        "locale": "tr",
+        "name": "Zambiya"
+    },
+    {
+        "id": 1428,
+        "country_id": 894,
+        "locale": "id",
+        "name": "Zambia"
+    }
+]
